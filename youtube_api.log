@@ -1,0 +1,1572 @@
+2025-02-03 14:47:20,307 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 14:47:20,307 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 14:47:20,308 - INFO -  * Restarting with stat
+2025-02-03 14:47:20,511 - WARNING -  * Debugger is active!
+2025-02-03 14:47:20,518 - INFO -  * Debugger PIN: 129-813-237
+2025-02-03 14:47:36,424 - INFO - 127.0.0.1 - - [03/Feb/2025 14:47:36] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-03 14:49:51,983 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 14:49:51,983 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 14:49:51,984 - INFO -  * Restarting with stat
+2025-02-03 14:49:52,187 - WARNING -  * Debugger is active!
+2025-02-03 14:49:52,196 - INFO -  * Debugger PIN: 129-813-237
+2025-02-03 17:48:38,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 17:48:38,725 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 17:48:38,726 - INFO -  * Restarting with stat
+2025-02-03 17:48:38,930 - WARNING -  * Debugger is active!
+2025-02-03 17:48:38,941 - INFO -  * Debugger PIN: 129-813-237
+2025-02-03 17:48:44,749 - INFO - 127.0.0.1 - - [03/Feb/2025 17:48:44] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-03 19:39:38,832 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 19:39:38,832 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 19:39:38,834 - INFO -  * Restarting with stat
+2025-02-03 19:39:39,073 - WARNING -  * Debugger is active!
+2025-02-03 19:39:39,081 - INFO -  * Debugger PIN: 129-813-237
+2025-02-03 19:40:06,226 - INFO - 127.0.0.1 - - [03/Feb/2025 19:40:06] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-03 19:45:37,375 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-03 19:45:37,375 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-03 19:45:37,375 - INFO -  * Restarting with stat
+2025-02-03 19:45:37,571 - WARNING -  * Debugger is active!
+2025-02-03 19:45:37,580 - INFO -  * Debugger PIN: 129-813-237
+2025-02-03 19:46:00,420 - INFO - 127.0.0.1 - - [03/Feb/2025 19:46:00] "[35m[1mGET /callback?state=2NUj950OfGuPYoHVWdc6jJGh2pgrvc&code=4/0ASVgi3IQKdd6J2tITmzzRIal9CFzNB7uxz-vYuBMjgjn8b0fLnRbwEYrIo7LPlQNTW70gA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 500 -
+2025-02-03 19:46:00,456 - INFO - 127.0.0.1 - - [03/Feb/2025 19:46:00] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-03 19:46:00,457 - INFO - 127.0.0.1 - - [03/Feb/2025 19:46:00] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-03 19:46:00,554 - INFO - 127.0.0.1 - - [03/Feb/2025 19:46:00] "GET /callback?__debugger__=yes&cmd=resource&f=console.png&s=zIG9PlJvs5kpBq2uWCSo HTTP/1.1" 200 -
+2025-02-03 19:46:00,649 - INFO - 127.0.0.1 - - [03/Feb/2025 19:46:00] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-04 16:11:11,281 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 16:11:11,281 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 16:11:11,282 - INFO -  * Restarting with stat
+2025-02-04 16:11:11,487 - WARNING -  * Debugger is active!
+2025-02-04 16:11:11,495 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:11:21,264 - INFO - 127.0.0.1 - - [04/Feb/2025 16:11:21] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:11:33,104 - INFO - 127.0.0.1 - - [04/Feb/2025 16:11:33] "[32mGET /callback?state=IiSxPRPCXWERzOGUhMAbJtw8uGYApb&code=4/0ASVgi3KU2epX2c8acu1syHYj5WrWDX8J4CvtUq0yF-Ggew4MuD_5Z3JYn1KjultPQH_dmg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-04 16:11:33,717 - INFO - 127.0.0.1 - - [04/Feb/2025 16:11:33] "[35m[1mGET /subscriptions HTTP/1.1[0m" 500 -
+2025-02-04 16:11:33,760 - INFO - 127.0.0.1 - - [04/Feb/2025 16:11:33] "GET /subscriptions?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-04 16:11:33,760 - INFO - 127.0.0.1 - - [04/Feb/2025 16:11:33] "GET /subscriptions?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-04 16:11:33,866 - INFO - 127.0.0.1 - - [04/Feb/2025 16:11:33] "GET /subscriptions?__debugger__=yes&cmd=resource&f=console.png&s=vBDyiXUPjXsYKvrKBANi HTTP/1.1" 200 -
+2025-02-04 16:11:33,962 - INFO - 127.0.0.1 - - [04/Feb/2025 16:11:33] "GET /subscriptions?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-04 16:14:44,508 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 16:14:44,508 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 16:14:44,509 - INFO -  * Restarting with stat
+2025-02-04 16:14:44,716 - WARNING -  * Debugger is active!
+2025-02-04 16:14:44,724 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:14:49,333 - INFO - 127.0.0.1 - - [04/Feb/2025 16:14:49] "GET /subscriptions HTTP/1.1" 200 -
+2025-02-04 16:14:49,428 - INFO - 127.0.0.1 - - [04/Feb/2025 16:14:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-04 16:15:37,943 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 16:15:37,969 - INFO -  * Restarting with stat
+2025-02-04 16:15:38,294 - WARNING -  * Debugger is active!
+2025-02-04 16:15:38,300 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:15:43,172 - INFO - 127.0.0.1 - - [04/Feb/2025 16:15:43] "GET /subscriptions HTTP/1.1" 200 -
+2025-02-04 16:15:43,257 - INFO - 127.0.0.1 - - [04/Feb/2025 16:15:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-04 16:19:56,753 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 16:19:56,789 - INFO -  * Restarting with stat
+2025-02-04 16:19:57,087 - WARNING -  * Debugger is active!
+2025-02-04 16:19:57,094 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:20:57,362 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 16:20:57,362 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 16:20:57,363 - INFO -  * Restarting with stat
+2025-02-04 16:20:57,573 - WARNING -  * Debugger is active!
+2025-02-04 16:20:57,579 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:21:02,479 - INFO - 127.0.0.1 - - [04/Feb/2025 16:21:02] "[31m[1mGET /subscriptions HTTP/1.1[0m" 400 -
+2025-02-04 16:21:02,561 - INFO - 127.0.0.1 - - [04/Feb/2025 16:21:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-04 16:21:10,744 - INFO - 127.0.0.1 - - [04/Feb/2025 16:21:10] "[32mGET /callback?state=IiSxPRPCXWERzOGUhMAbJtw8uGYApb&code=4/0ASVgi3LX3sGK9A-T5LWDesOS7kTUpfjfKUIBLjYI5aZNzLyK59oVxd9_WscELGHd7l94EA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-04 16:21:10,748 - INFO - 127.0.0.1 - - [04/Feb/2025 16:21:10] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-04 16:21:19,120 - INFO - 127.0.0.1 - - [04/Feb/2025 16:21:19] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:21:19,870 - INFO - 127.0.0.1 - - [04/Feb/2025 16:21:19] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:21:27,990 - INFO - 127.0.0.1 - - [04/Feb/2025 16:21:27] "[32mGET /callback?state=VRCPtRt8KpA8N45N9g2YcQrljatONF&code=4/0ASVgi3LWhGllE1QsO7uSS-bCd4CeNE8DSo0nrv9LhQyno6AaVjtAC7-ldJBBy2RiDNj4mQ&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-04 16:21:27,993 - INFO - 127.0.0.1 - - [04/Feb/2025 16:21:27] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-04 16:22:01,251 - INFO - 127.0.0.1 - - [04/Feb/2025 16:22:01] "[33mGET / HTTP/1.1[0m" 404 -
+2025-02-04 16:23:45,956 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 16:23:45,986 - INFO -  * Restarting with stat
+2025-02-04 16:23:46,262 - WARNING -  * Debugger is active!
+2025-02-04 16:23:46,271 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:25:36,415 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 16:25:36,415 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 16:25:36,416 - INFO -  * Restarting with stat
+2025-02-04 16:25:36,617 - WARNING -  * Debugger is active!
+2025-02-04 16:25:36,624 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:25:42,607 - INFO - 127.0.0.1 - - [04/Feb/2025 16:25:42] "GET / HTTP/1.1" 200 -
+2025-02-04 16:26:36,529 - INFO - 127.0.0.1 - - [04/Feb/2025 16:26:36] "GET /subscriptions?channel_id=Akz1717 HTTP/1.1" 200 -
+2025-02-04 16:27:01,566 - INFO - 127.0.0.1 - - [04/Feb/2025 16:27:01] "GET /subscriptions?channel_id=@Akz1717 HTTP/1.1" 200 -
+2025-02-04 16:27:02,390 - INFO - 127.0.0.1 - - [04/Feb/2025 16:27:02] "GET /subscriptions?channel_id=@Akz1717 HTTP/1.1" 200 -
+2025-02-04 16:27:02,679 - INFO - 127.0.0.1 - - [04/Feb/2025 16:27:02] "GET /subscriptions?channel_id=@Akz1717 HTTP/1.1" 200 -
+2025-02-04 16:28:02,798 - INFO - 127.0.0.1 - - [04/Feb/2025 16:28:02] "GET /subscriptions?channel_id=UC5jMHzBI13Cg8chI2X0h5_Q HTTP/1.1" 200 -
+2025-02-04 16:28:03,405 - INFO - 127.0.0.1 - - [04/Feb/2025 16:28:03] "GET /subscriptions?channel_id=UC5jMHzBI13Cg8chI2X0h5_Q HTTP/1.1" 200 -
+2025-02-04 16:29:44,506 - ERROR - Cannot access subscriptions for UCUyDOdBWhC1MCxEjC46d-zw. They might be private.
+2025-02-04 16:29:44,508 - INFO - 127.0.0.1 - - [04/Feb/2025 16:29:44] "[31m[1mGET /subscriptions?channel_id=UCUyDOdBWhC1MCxEjC46d-zw HTTP/1.1[0m" 403 -
+2025-02-04 16:31:04,394 - ERROR - Cannot access subscriptions for UCSxjNbPriyBh9RNl_QNSAtw. They might be private.
+2025-02-04 16:31:04,397 - INFO - 127.0.0.1 - - [04/Feb/2025 16:31:04] "[31m[1mGET /subscriptions?channel_id=UCSxjNbPriyBh9RNl_QNSAtw HTTP/1.1[0m" 403 -
+2025-02-04 16:31:06,520 - ERROR - Cannot access subscriptions for UCSxjNbPriyBh9RNl_QNSAtw. They might be private.
+2025-02-04 16:31:06,522 - INFO - 127.0.0.1 - - [04/Feb/2025 16:31:06] "[31m[1mGET /subscriptions?channel_id=UCSxjNbPriyBh9RNl_QNSAtw HTTP/1.1[0m" 403 -
+2025-02-04 16:31:07,414 - ERROR - Cannot access subscriptions for UCSxjNbPriyBh9RNl_QNSAtw. They might be private.
+2025-02-04 16:31:07,415 - INFO - 127.0.0.1 - - [04/Feb/2025 16:31:07] "[31m[1mGET /subscriptions?channel_id=UCSxjNbPriyBh9RNl_QNSAtw HTTP/1.1[0m" 403 -
+2025-02-04 16:32:26,735 - INFO - 127.0.0.1 - - [04/Feb/2025 16:32:26] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-04 16:32:45,355 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 16:32:45,420 - INFO -  * Restarting with stat
+2025-02-04 16:32:45,741 - WARNING -  * Debugger is active!
+2025-02-04 16:32:45,752 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:33:13,014 - INFO - 127.0.0.1 - - [04/Feb/2025 16:33:13] "POST /subscribe HTTP/1.1" 200 -
+2025-02-04 16:39:31,817 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 16:39:31,858 - INFO -  * Restarting with stat
+2025-02-04 16:39:32,174 - WARNING -  * Debugger is active!
+2025-02-04 16:39:32,186 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:39:39,898 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 16:39:39,925 - INFO -  * Restarting with stat
+2025-02-04 16:39:40,191 - WARNING -  * Debugger is active!
+2025-02-04 16:39:40,199 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:40:02,540 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 16:40:02,540 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 16:40:02,540 - INFO -  * Restarting with stat
+2025-02-04 16:40:02,741 - WARNING -  * Debugger is active!
+2025-02-04 16:40:02,749 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:40:07,534 - INFO - 127.0.0.1 - - [04/Feb/2025 16:40:07] "GET / HTTP/1.1" 200 -
+2025-02-04 16:40:28,416 - INFO - 127.0.0.1 - - [04/Feb/2025 16:40:28] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-04 16:40:37,610 - INFO - 127.0.0.1 - - [04/Feb/2025 16:40:37] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-04 16:41:00,845 - INFO - 127.0.0.1 - - [04/Feb/2025 16:41:00] "POST /subscribe HTTP/1.1" 200 -
+2025-02-04 16:46:59,571 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 16:46:59,572 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 16:46:59,572 - INFO -  * Restarting with stat
+2025-02-04 16:46:59,776 - WARNING -  * Debugger is active!
+2025-02-04 16:46:59,783 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 16:47:05,055 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:05] "GET / HTTP/1.1" 200 -
+2025-02-04 16:47:20,097 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:20] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:20,105 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:20] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:20,651 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:20] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 16:47:26,077 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:26] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:26,080 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:26] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:26,524 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:26] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 16:47:29,641 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:29] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:29,647 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:29] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:30,091 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:30] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 16:47:33,799 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:33] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:33,803 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:33] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:34,252 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:34] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 16:47:39,440 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:39] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:39,447 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:39] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:39,909 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:39] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 16:47:40,150 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:40] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:40,154 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:40] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:40,567 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:40] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 16:47:40,761 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:40] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:40,767 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:40] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:41,195 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:41] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 16:47:41,385 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:41] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:41,387 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:41] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:41,822 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:41] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 16:47:42,009 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:42] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 16:47:42,016 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:42] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 16:47:42,189 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:42] "GET / HTTP/1.1" 200 -
+2025-02-04 16:47:42,474 - INFO - 127.0.0.1 - - [04/Feb/2025 16:47:42] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-04 17:12:14,479 - INFO - 127.0.0.1 - - [04/Feb/2025 17:12:14] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 17:12:14,485 - INFO - 127.0.0.1 - - [04/Feb/2025 17:12:14] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:12:23,274 - INFO - 127.0.0.1 - - [04/Feb/2025 17:12:23] "[35m[1mGET /callback?state=FQbHIA7SWBpsyTYdTQk1aWLrQfxbJ4&code=4/0ASVgi3LZmoWgCtvt8fRQVGipMY1Ftj44IHSNOa4mpnETWoMMDdR9luJT7zCLzhRcyPBaww&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 500 -
+2025-02-04 17:12:23,358 - INFO - 127.0.0.1 - - [04/Feb/2025 17:12:23] "[36mGET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-04 17:12:23,358 - INFO - 127.0.0.1 - - [04/Feb/2025 17:12:23] "[36mGET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-04 17:12:23,452 - INFO - 127.0.0.1 - - [04/Feb/2025 17:12:23] "GET /callback?__debugger__=yes&cmd=resource&f=console.png&s=5cZeXmNatz85jv6p6y0X HTTP/1.1" 200 -
+2025-02-04 17:16:03,805 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 17:16:03,857 - INFO -  * Restarting with stat
+2025-02-04 17:16:04,169 - WARNING -  * Debugger is active!
+2025-02-04 17:16:04,182 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 17:16:48,879 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 17:16:48,910 - INFO -  * Restarting with stat
+2025-02-04 17:16:49,644 - WARNING -  * Debugger is active!
+2025-02-04 17:16:49,658 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 17:17:25,339 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 17:17:25,339 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 17:17:25,340 - INFO -  * Restarting with stat
+2025-02-04 17:17:25,546 - WARNING -  * Debugger is active!
+2025-02-04 17:17:25,553 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 17:17:32,919 - INFO - 127.0.0.1 - - [04/Feb/2025 17:17:32] "GET / HTTP/1.1" 200 -
+2025-02-04 17:17:33,018 - INFO - 127.0.0.1 - - [04/Feb/2025 17:17:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-04 17:17:38,669 - INFO - 127.0.0.1 - - [04/Feb/2025 17:17:38] "[33mGET /callback?state=VRCPtRt8KpA8N45N9g2YcQrljatONF&code=4/0ASVgi3IgFT38wIxZhb1aRHbM6DUPfNJ6CqYixrA-1_who3IUGi05SIocoHM3tKl594CJ7Q&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 404 -
+2025-02-04 17:17:51,840 - INFO - 127.0.0.1 - - [04/Feb/2025 17:17:51] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:17:52,417 - INFO - 127.0.0.1 - - [04/Feb/2025 17:17:52] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:18:00,748 - INFO - 127.0.0.1 - - [04/Feb/2025 17:18:00] "[33mGET /callback?state=cnzvZqHVIPV96kjLYt4J94VtoJ1qef&code=4/0ASVgi3J1S7VyUpfheO21gppZY66UfFvKvTDxaHzGqxj_enz3-lvVxs8H_BDQehDJGVUc-g&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 404 -
+2025-02-04 17:18:25,510 - INFO - 127.0.0.1 - - [04/Feb/2025 17:18:25] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:18:34,113 - INFO - 127.0.0.1 - - [04/Feb/2025 17:18:34] "[33mGET /callback?state=b4qy4kjFXkIfF7aaJu4wrXnbZ3mE8T&code=4/0ASVgi3KikKzU62Fn52_bILTeQxyfi-zPVNvPuGhz2aUsDHjVgPbzEEXUlWR24SytBIu5-w&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 404 -
+2025-02-04 17:18:56,953 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 17:18:56,979 - INFO -  * Restarting with stat
+2025-02-04 17:18:57,263 - WARNING -  * Debugger is active!
+2025-02-04 17:18:57,270 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 17:19:17,967 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 17:19:17,967 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 17:19:17,968 - INFO -  * Restarting with stat
+2025-02-04 17:19:18,174 - WARNING -  * Debugger is active!
+2025-02-04 17:19:18,182 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 17:19:24,167 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:24] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:19:24,771 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:24] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:19:31,766 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:31] "[32mGET /callback?state=OsQMVEVE33v3rWfQfMt6cFtoFTif9m&code=4/0ASVgi3LErekaltXOcJt-bbxlPBVi0IX5LFBUkSsT3CccdhlnXfibhLatBBev4hau3cMwug&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-04 17:19:31,778 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:31] "GET / HTTP/1.1" 200 -
+2025-02-04 17:19:43,881 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:43] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 17:19:43,904 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:43] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:19:44,430 - ERROR - Failed to fetch my subscriptions: Expecting value: line 1 column 1 (char 0)
+2025-02-04 17:19:53,363 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:53] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-04 17:19:53,368 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:53] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 17:19:53,371 - INFO - 127.0.0.1 - - [04/Feb/2025 17:19:53] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:19:53,790 - ERROR - Failed to fetch my subscriptions: Expecting value: line 1 column 1 (char 0)
+2025-02-04 17:20:02,571 - INFO - 127.0.0.1 - - [04/Feb/2025 17:20:02] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-04 17:22:47,183 - INFO - 127.0.0.1 - - [04/Feb/2025 17:22:47] "POST /batch_subscribe HTTP/1.1" 200 -
+2025-02-04 17:23:45,087 - INFO - 127.0.0.1 - - [04/Feb/2025 17:23:45] "GET / HTTP/1.1" 200 -
+2025-02-04 17:24:09,295 - INFO - 127.0.0.1 - - [04/Feb/2025 17:24:09] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-04 17:24:09,303 - INFO - 127.0.0.1 - - [04/Feb/2025 17:24:09] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-04 17:24:09,812 - ERROR - Failed to fetch my subscriptions: Expecting value: line 1 column 1 (char 0)
+2025-02-04 17:24:18,706 - INFO - 127.0.0.1 - - [04/Feb/2025 17:24:18] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-04 17:30:52,446 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-04 17:30:52,500 - INFO -  * Restarting with stat
+2025-02-04 17:30:52,823 - WARNING -  * Debugger is active!
+2025-02-04 17:30:52,831 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 17:31:22,924 - INFO - 127.0.0.1 - - [04/Feb/2025 17:31:22] "GET / HTTP/1.1" 200 -
+2025-02-04 17:32:33,446 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-04 17:32:33,446 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-04 17:32:33,447 - INFO -  * Restarting with stat
+2025-02-04 17:32:33,648 - WARNING -  * Debugger is active!
+2025-02-04 17:32:33,656 - INFO -  * Debugger PIN: 129-813-237
+2025-02-04 17:32:35,949 - INFO - 127.0.0.1 - - [04/Feb/2025 17:32:35] "GET / HTTP/1.1" 200 -
+2025-02-04 17:33:11,300 - INFO - 127.0.0.1 - - [04/Feb/2025 17:33:11] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-04 17:33:20,932 - INFO - 127.0.0.1 - - [04/Feb/2025 17:33:20] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-04 17:33:20,942 - INFO - 127.0.0.1 - - [04/Feb/2025 17:33:20] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-04 17:33:29,819 - INFO - 127.0.0.1 - - [04/Feb/2025 17:33:29] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-04 17:33:29,830 - INFO - 127.0.0.1 - - [04/Feb/2025 17:33:29] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-04 17:33:38,610 - INFO - 127.0.0.1 - - [04/Feb/2025 17:33:38] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:22:14,265 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 15:22:14,361 - INFO -  * Restarting with stat
+2025-02-05 15:22:14,768 - WARNING -  * Debugger is active!
+2025-02-05 15:22:14,815 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:22:26,880 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 15:22:26,911 - INFO -  * Restarting with stat
+2025-02-05 15:22:27,192 - WARNING -  * Debugger is active!
+2025-02-05 15:22:27,200 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:25:49,883 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 15:25:49,914 - INFO -  * Restarting with stat
+2025-02-05 15:25:50,195 - WARNING -  * Debugger is active!
+2025-02-05 15:25:50,204 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:26:10,938 - INFO - 127.0.0.1 - - [05/Feb/2025 15:26:10] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:26:11,631 - INFO - 127.0.0.1 - - [05/Feb/2025 15:26:11] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:26:18,177 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 15:26:18,177 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 15:26:18,178 - INFO -  * Restarting with stat
+2025-02-05 15:26:18,390 - WARNING -  * Debugger is active!
+2025-02-05 15:26:18,402 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:26:32,322 - INFO - 127.0.0.1 - - [05/Feb/2025 15:26:32] "[32mGET /callback?state=6D0V79M8AM92FHPnJaXGmq0tapCK09&code=4/0ASVgi3LY8uAvpD7QfFtD4478usxOC-OlxqjzMr5dfML5LV2xBbOQzrncsJwgc9YvasU3Ew&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-05 15:26:32,335 - INFO - 127.0.0.1 - - [05/Feb/2025 15:26:32] "GET / HTTP/1.1" 200 -
+2025-02-05 15:26:47,348 - INFO - 127.0.0.1 - - [05/Feb/2025 15:26:47] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:26:47,692 - INFO - 127.0.0.1 - - [05/Feb/2025 15:26:47] "GET /subscriptions?channel_id=%20UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:27:18,455 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:18] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:27:18,681 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:18] "GET /subscriptions?channel_id=%20UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:27:30,099 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:30] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:27:30,261 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:30] "GET /subscriptions?channel_id=%20UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:27:38,481 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:38] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:27:38,686 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:38] "GET /subscriptions?channel_id=%20UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:27:38,743 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:38] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:27:38,914 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:38] "GET /subscriptions?channel_id=%20UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:27:38,958 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:38] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:27:39,122 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:39] "GET /subscriptions?channel_id=%20UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:27:39,175 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:39] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:27:39,338 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:39] "GET /subscriptions?channel_id=%20UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:27:59,628 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:59] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:27:59,803 - INFO - 127.0.0.1 - - [05/Feb/2025 15:27:59] "GET /subscriptions?channel_id=%20UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:28:13,700 - INFO - 127.0.0.1 - - [05/Feb/2025 15:28:13] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:28:22,524 - INFO - 127.0.0.1 - - [05/Feb/2025 15:28:22] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:28:22,529 - INFO - 127.0.0.1 - - [05/Feb/2025 15:28:22] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:28:30,707 - INFO - 127.0.0.1 - - [05/Feb/2025 15:28:30] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:29:50,188 - INFO - 127.0.0.1 - - [05/Feb/2025 15:29:50] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:29:58,654 - INFO - 127.0.0.1 - - [05/Feb/2025 15:29:58] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:29:58,658 - INFO - 127.0.0.1 - - [05/Feb/2025 15:29:58] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:30:07,006 - INFO - 127.0.0.1 - - [05/Feb/2025 15:30:07] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:34:50,460 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 15:34:50,526 - INFO -  * Restarting with stat
+2025-02-05 15:34:50,875 - WARNING -  * Debugger is active!
+2025-02-05 15:34:50,883 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:35:09,190 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 15:35:09,190 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 15:35:09,191 - INFO -  * Restarting with stat
+2025-02-05 15:35:09,391 - WARNING -  * Debugger is active!
+2025-02-05 15:35:09,399 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:35:22,585 - INFO - 127.0.0.1 - - [05/Feb/2025 15:35:22] "GET / HTTP/1.1" 200 -
+2025-02-05 15:35:30,371 - INFO - 127.0.0.1 - - [05/Feb/2025 15:35:30] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:35:45,576 - INFO - 127.0.0.1 - - [05/Feb/2025 15:35:45] "[32mGET /callback?state=f24rbsosD5r0kbHC8Ah4S1rN0uVuiJ&code=4/0ASVgi3IV7OI_Jrl2BQ5Pg0LIwUHlRZk5HzcmLLstyvYtoZ-g_aergeEdf1irgeNuQ5uP2A&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-05 15:35:45,586 - INFO - 127.0.0.1 - - [05/Feb/2025 15:35:45] "GET / HTTP/1.1" 200 -
+2025-02-05 15:35:52,182 - INFO - 127.0.0.1 - - [05/Feb/2025 15:35:52] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 15:36:00,949 - INFO - 127.0.0.1 - - [05/Feb/2025 15:36:00] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 15:39:50,635 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 15:39:50,671 - INFO -  * Restarting with stat
+2025-02-05 15:39:50,953 - WARNING -  * Debugger is active!
+2025-02-05 15:39:50,965 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:40:11,458 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 15:40:11,459 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 15:40:11,459 - INFO -  * Restarting with stat
+2025-02-05 15:40:11,665 - WARNING -  * Debugger is active!
+2025-02-05 15:40:11,674 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:40:16,407 - INFO - 127.0.0.1 - - [05/Feb/2025 15:40:16] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:40:17,097 - INFO - 127.0.0.1 - - [05/Feb/2025 15:40:17] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:41:19,983 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:19] "[35m[1mGET /callback?state=x16FGKSHcj9eWr4dOcFfRUEaJclcwT&code=4/0ASVgi3IwqxfSYIITC_XIe0zxBzVFgD2z4N2jR-OpE8nd8cW2JE9zQttvNIGEIy1Q8Y_oJw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 500 -
+2025-02-05 15:41:20,096 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:20] "[36mGET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-05 15:41:20,096 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:20] "[36mGET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-05 15:41:20,155 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:20] "GET /callback?__debugger__=yes&cmd=resource&f=console.png&s=RCVPHcFNXLLrA362IsRn HTTP/1.1" 200 -
+2025-02-05 15:41:33,259 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:33] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:41:33,919 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:33] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:41:43,140 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:43] "[35m[1mGET /callback?state=pb4m7tkHjq3UgBfCFUNcsPlooETMXZ&code=4/0ASVgi3INuEo8Vl3acoED5GJPuq4CQEGfAh_rH9uZiuEJntfIExvhpv-UuFU24UKQ4FAxag&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 500 -
+2025-02-05 15:41:43,168 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:43] "[36mGET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-05 15:41:43,169 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:43] "[36mGET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-05 15:41:43,283 - INFO - 127.0.0.1 - - [05/Feb/2025 15:41:43] "[36mGET /callback?__debugger__=yes&cmd=resource&f=console.png&s=RCVPHcFNXLLrA362IsRn HTTP/1.1[0m" 304 -
+2025-02-05 15:42:11,340 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 15:42:11,341 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 15:42:11,341 - INFO -  * Restarting with stat
+2025-02-05 15:42:11,549 - WARNING -  * Debugger is active!
+2025-02-05 15:42:11,556 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:42:17,642 - INFO - 127.0.0.1 - - [05/Feb/2025 15:42:17] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:42:18,435 - INFO - 127.0.0.1 - - [05/Feb/2025 15:42:18] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:42:26,285 - INFO - 127.0.0.1 - - [05/Feb/2025 15:42:26] "[35m[1mGET /callback?state=DH6cOeUBpaz85p0OY3ZfKpiG60T6vP&code=4/0ASVgi3I3XVM__08ug9ieHIRVbXSZsUFOLqZ8bimvRsp7Q5ooVy4I_0J7HdGh_FMh_aJ1Ng&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 500 -
+2025-02-05 15:42:26,336 - INFO - 127.0.0.1 - - [05/Feb/2025 15:42:26] "[36mGET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-05 15:42:26,337 - INFO - 127.0.0.1 - - [05/Feb/2025 15:42:26] "[36mGET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-05 15:42:26,456 - INFO - 127.0.0.1 - - [05/Feb/2025 15:42:26] "GET /callback?__debugger__=yes&cmd=resource&f=console.png&s=Kj0fWLLipdIvbGPu5XNF HTTP/1.1" 200 -
+2025-02-05 15:43:57,151 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 15:43:57,193 - INFO -  * Restarting with stat
+2025-02-05 15:43:57,472 - WARNING -  * Debugger is active!
+2025-02-05 15:43:57,482 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:44:11,329 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 15:44:11,329 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 15:44:11,330 - INFO -  * Restarting with stat
+2025-02-05 15:44:11,536 - WARNING -  * Debugger is active!
+2025-02-05 15:44:11,544 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 15:44:19,839 - INFO - 127.0.0.1 - - [05/Feb/2025 15:44:19] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:44:20,972 - INFO - 127.0.0.1 - - [05/Feb/2025 15:44:20] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 15:44:30,570 - INFO - 127.0.0.1 - - [05/Feb/2025 15:44:30] "[32mGET /callback?state=83KsLbaY06umZt1T3EiVrXEkfk1X0R&code=4/0ASVgi3Lc181XYpRywsXkYcZ3k9XU524H21PTO1Z4o7FKMb1EVrS6VB7onZnly7p705sPQQ&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-05 15:44:30,581 - INFO - 127.0.0.1 - - [05/Feb/2025 15:44:30] "GET / HTTP/1.1" 200 -
+2025-02-05 23:24:44,395 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 23:24:44,492 - INFO -  * Restarting with stat
+2025-02-05 23:24:44,993 - WARNING -  * Debugger is active!
+2025-02-05 23:24:45,007 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 23:25:07,474 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 23:25:07,474 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 23:25:07,475 - INFO -  * Restarting with stat
+2025-02-05 23:25:07,684 - WARNING -  * Debugger is active!
+2025-02-05 23:25:07,693 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 23:25:12,530 - INFO - 127.0.0.1 - - [05/Feb/2025 23:25:12] "GET / HTTP/1.1" 200 -
+2025-02-05 23:25:12,700 - INFO - 127.0.0.1 - - [05/Feb/2025 23:25:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-05 23:26:06,488 - INFO - 127.0.0.1 - - [05/Feb/2025 23:26:06] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:26:06,662 - INFO - 127.0.0.1 - - [05/Feb/2025 23:26:06] "GET /subscriptions?channel_id=UCSxjNbPriyBh9RNl_QNSAtw HTTP/1.1" 200 -
+2025-02-05 23:26:25,196 - INFO - 127.0.0.1 - - [05/Feb/2025 23:26:25] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:26:25,364 - INFO - 127.0.0.1 - - [05/Feb/2025 23:26:25] "GET /subscriptions?channel_id=UCSxjNbPriyBh9RNl_QNSAtw HTTP/1.1" 200 -
+2025-02-05 23:26:38,638 - INFO - 127.0.0.1 - - [05/Feb/2025 23:26:38] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:26:38,777 - INFO - 127.0.0.1 - - [05/Feb/2025 23:26:38] "GET /subscriptions?channel_id=UCSxjNbPriyBh9RNl_QNSAtw HTTP/1.1" 200 -
+2025-02-05 23:26:47,140 - INFO - 127.0.0.1 - - [05/Feb/2025 23:26:47] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:26:47,302 - INFO - 127.0.0.1 - - [05/Feb/2025 23:26:47] "GET /subscriptions?channel_id=UCSxjNbPriyBh9RNl_QNSAtw HTTP/1.1" 200 -
+2025-02-05 23:27:03,945 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:03] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:27:04,093 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:04] "GET /subscriptions?channel_id=UCSxjNbPriyBh9RNl_QNSAtw HTTP/1.1" 200 -
+2025-02-05 23:27:16,792 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:16] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:27:16,958 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:16] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:27:25,315 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:25] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:27:25,483 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:25] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:27:27,295 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:27] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:27:27,458 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:27] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:27:33,638 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:33] "GET / HTTP/1.1" 200 -
+2025-02-05 23:27:33,928 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-05 23:27:39,159 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:39] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 23:27:51,101 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:51] "[32mGET /callback?state=diaiTwtbIcisijTJD7utVTc3s4pr6H&code=4/0ASVgi3Jh0-rOSxnDy9TXnbzSMqVkuAyOmWjuZCRqsvyCk29kpt5-J1lHFigyFRTB_nisEg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-05 23:27:51,107 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:51] "GET / HTTP/1.1" 200 -
+2025-02-05 23:27:54,466 - INFO - 127.0.0.1 - - [05/Feb/2025 23:27:54] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:28:03,864 - INFO - 127.0.0.1 - - [05/Feb/2025 23:28:03] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:28:13,791 - INFO - 127.0.0.1 - - [05/Feb/2025 23:28:13] "[33mPOST /subscribe HTTP/1.1[0m" 404 -
+2025-02-05 23:34:51,112 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 23:34:51,182 - INFO -  * Restarting with stat
+2025-02-05 23:34:51,545 - WARNING -  * Debugger is active!
+2025-02-05 23:34:51,557 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 23:35:02,647 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-05 23:35:02,679 - INFO -  * Restarting with stat
+2025-02-05 23:35:02,950 - WARNING -  * Debugger is active!
+2025-02-05 23:35:02,957 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 23:35:19,680 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-05 23:35:19,681 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-05 23:35:19,681 - INFO -  * Restarting with stat
+2025-02-05 23:35:19,885 - WARNING -  * Debugger is active!
+2025-02-05 23:35:19,894 - INFO -  * Debugger PIN: 129-813-237
+2025-02-05 23:35:26,173 - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:26] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-05 23:35:36,110 - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:36] "[32mGET /callback?state=rCmh5rE2BGjFCRp2EHoMJY54tdTgPg&code=4/0ASVgi3JFRt19Z2fEgx0NUiv-_2gUYUzD00wz0nhHUZ21lp-xXrjTjoOmcMO-B2ObJdjZ4g&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-05 23:35:36,121 - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:36] "GET / HTTP/1.1" 200 -
+2025-02-05 23:35:53,624 - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:53] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:35:53,837 - INFO - 127.0.0.1 - - [05/Feb/2025 23:35:53] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:36:02,069 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:02] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:36:02,257 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:02] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:36:03,711 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:03] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:36:03,881 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:03] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:36:04,908 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:04] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:36:05,090 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:05] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:36:05,494 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:05] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:36:05,670 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:05] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-05 23:36:06,244 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:06] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-05 23:36:06,426 - INFO - 127.0.0.1 - - [05/Feb/2025 23:36:06] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 09:17:13,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 09:17:13,392 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 09:17:13,392 - INFO -  * Restarting with stat
+2025-02-07 09:17:13,600 - WARNING -  * Debugger is active!
+2025-02-07 09:17:13,608 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:17:29,050 - INFO - 127.0.0.1 - - [07/Feb/2025 09:17:29] "GET / HTTP/1.1" 200 -
+2025-02-07 09:17:48,027 - INFO - 127.0.0.1 - - [07/Feb/2025 09:17:48] "[32mGET /my_subscriptions HTTP/1.1[0m" 302 -
+2025-02-07 09:17:48,049 - INFO - 127.0.0.1 - - [07/Feb/2025 09:17:48] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 09:17:48,560 - INFO - 127.0.0.1 - - [07/Feb/2025 09:17:48] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1[0m" 500 -
+2025-02-07 09:19:15,024 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 09:19:15,061 - INFO -  * Restarting with stat
+2025-02-07 09:19:15,345 - WARNING -  * Debugger is active!
+2025-02-07 09:19:15,354 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:19:45,397 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 09:19:45,397 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 09:19:45,397 - INFO -  * Restarting with stat
+2025-02-07 09:19:45,619 - WARNING -  * Debugger is active!
+2025-02-07 09:19:45,630 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:19:52,627 - INFO - 127.0.0.1 - - [07/Feb/2025 09:19:52] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 09:20:02,256 - INFO - 127.0.0.1 - - [07/Feb/2025 09:20:02] "[35m[1mGET /callback?state=GVClgR5NH2qDcukij5IuhTNqUnGNEZ&code=4/0ASVgi3Kxt5zPs0Nqu7CM2RY0V-2i8gvfEutRGU457vZpKttGhlFTfQZJYvZZIh2ARaIvCA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 500 -
+2025-02-07 09:20:02,406 - INFO - 127.0.0.1 - - [07/Feb/2025 09:20:02] "[36mGET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-07 09:20:02,407 - INFO - 127.0.0.1 - - [07/Feb/2025 09:20:02] "[36mGET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-07 09:20:02,523 - INFO - 127.0.0.1 - - [07/Feb/2025 09:20:02] "GET /callback?__debugger__=yes&cmd=resource&f=console.png&s=ZSYWmz1djm5zEcBN01iV HTTP/1.1" 200 -
+2025-02-07 09:21:14,940 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 09:21:14,992 - INFO -  * Restarting with stat
+2025-02-07 09:21:15,382 - WARNING -  * Debugger is active!
+2025-02-07 09:21:15,397 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:21:30,770 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 09:21:30,806 - INFO -  * Restarting with stat
+2025-02-07 09:21:31,084 - WARNING -  * Debugger is active!
+2025-02-07 09:21:31,091 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:21:36,924 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 09:21:36,924 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 09:21:36,925 - INFO -  * Restarting with stat
+2025-02-07 09:21:37,134 - WARNING -  * Debugger is active!
+2025-02-07 09:21:37,146 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:21:42,306 - INFO - 127.0.0.1 - - [07/Feb/2025 09:21:42] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 09:21:50,448 - INFO - 127.0.0.1 - - [07/Feb/2025 09:21:50] "[35m[1mGET /callback?state=nwsn5XRxxNQCglgQFDLEcIrIx2nIQQ&code=4/0ASVgi3KryCh2bfxuqHSTj6jHCQsP8UMIY24Ql-YUObq6aHWpDhmtWEzHd7hjrg2jXQ_zRg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 500 -
+2025-02-07 09:21:50,581 - INFO - 127.0.0.1 - - [07/Feb/2025 09:21:50] "[36mGET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-02-07 09:21:50,581 - INFO - 127.0.0.1 - - [07/Feb/2025 09:21:50] "[36mGET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-02-07 09:21:50,695 - INFO - 127.0.0.1 - - [07/Feb/2025 09:21:50] "GET /callback?__debugger__=yes&cmd=resource&f=console.png&s=aIcPfFwyO15fETF8LP50 HTTP/1.1" 200 -
+2025-02-07 09:22:59,877 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 09:22:59,879 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 09:22:59,885 - INFO -  * Restarting with stat
+2025-02-07 09:23:00,290 - WARNING -  * Debugger is active!
+2025-02-07 09:23:00,302 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:23:06,282 - INFO - 127.0.0.1 - - [07/Feb/2025 09:23:06] "[32mGET /callback?state=nwsn5XRxxNQCglgQFDLEcIrIx2nIQQ&code=4/0ASVgi3KryCh2bfxuqHSTj6jHCQsP8UMIY24Ql-YUObq6aHWpDhmtWEzHd7hjrg2jXQ_zRg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 09:23:06,298 - INFO - 127.0.0.1 - - [07/Feb/2025 09:23:06] "GET / HTTP/1.1" 200 -
+2025-02-07 09:23:20,858 - INFO - 127.0.0.1 - - [07/Feb/2025 09:23:20] "[33mGET /my_subscriptions HTTP/1.1[0m" 404 -
+2025-02-07 09:23:20,859 - ERROR - Error retrieving user's subscriptions: 404
+2025-02-07 09:23:30,202 - INFO - 127.0.0.1 - - [07/Feb/2025 09:23:30] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 09:23:49,531 - INFO - 127.0.0.1 - - [07/Feb/2025 09:23:49] "POST /batch_subscribe HTTP/1.1" 200 -
+2025-02-07 09:49:46,179 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 09:49:46,264 - INFO -  * Restarting with stat
+2025-02-07 09:49:46,596 - WARNING -  * Debugger is active!
+2025-02-07 09:49:46,607 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:50:31,615 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 09:50:31,615 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 09:50:31,615 - INFO -  * Restarting with stat
+2025-02-07 09:50:31,824 - WARNING -  * Debugger is active!
+2025-02-07 09:50:31,832 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 09:50:57,276 - INFO - 127.0.0.1 - - [07/Feb/2025 09:50:57] "GET / HTTP/1.1" 200 -
+2025-02-07 10:00:04,452 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 10:00:04,550 - INFO -  * Restarting with stat
+2025-02-07 10:00:04,928 - WARNING -  * Debugger is active!
+2025-02-07 10:00:04,936 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 10:00:09,704 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 10:00:09,704 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 10:00:09,704 - INFO -  * Restarting with stat
+2025-02-07 10:00:09,915 - WARNING -  * Debugger is active!
+2025-02-07 10:00:09,932 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 10:00:15,819 - INFO - 127.0.0.1 - - [07/Feb/2025 10:00:15] "GET / HTTP/1.1" 200 -
+2025-02-07 10:00:16,357 - INFO - 127.0.0.1 - - [07/Feb/2025 10:00:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 10:00:29,416 - INFO - 127.0.0.1 - - [07/Feb/2025 10:00:29] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 10:00:38,389 - INFO - 127.0.0.1 - - [07/Feb/2025 10:00:38] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 10:00:43,369 - INFO - 127.0.0.1 - - [07/Feb/2025 10:00:43] "POST /subscribe HTTP/1.1" 200 -
+2025-02-07 10:00:47,488 - INFO - 127.0.0.1 - - [07/Feb/2025 10:00:47] "GET / HTTP/1.1" 200 -
+2025-02-07 10:00:52,271 - INFO - 127.0.0.1 - - [07/Feb/2025 10:00:52] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 10:01:00,882 - INFO - 127.0.0.1 - - [07/Feb/2025 10:01:00] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 10:16:01,250 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 10:16:01,351 - INFO -  * Restarting with stat
+2025-02-07 10:16:01,794 - WARNING -  * Debugger is active!
+2025-02-07 10:16:01,803 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 10:23:14,977 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 10:23:14,977 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 10:23:14,978 - INFO -  * Restarting with stat
+2025-02-07 10:23:15,185 - WARNING -  * Debugger is active!
+2025-02-07 10:23:15,193 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 10:23:20,491 - INFO - 127.0.0.1 - - [07/Feb/2025 10:23:20] "GET / HTTP/1.1" 200 -
+2025-02-07 10:23:20,942 - INFO - 127.0.0.1 - - [07/Feb/2025 10:23:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 10:23:36,250 - INFO - 127.0.0.1 - - [07/Feb/2025 10:23:36] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 10:23:36,454 - INFO - 127.0.0.1 - - [07/Feb/2025 10:23:36] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 10:24:06,198 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:06] "GET / HTTP/1.1" 200 -
+2025-02-07 10:24:10,893 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:10] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 10:24:20,766 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:20] "[32mGET /callback?state=6ky2iwXsha3bRC9HYkS2ZnBwgqrk4p&code=4/0ASVgi3KMW7srKoe_rWkz7_dk2DZDs5ZNVcWahJ4i5KdXlR72BpXrr7qWqkkf3rHUvOrGVg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 10:24:20,771 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:20] "GET / HTTP/1.1" 200 -
+2025-02-07 10:24:25,695 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:25] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 10:24:34,835 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:34] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 10:24:34,849 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:34] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 10:24:39,063 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:39] "POST /subscribe HTTP/1.1" 200 -
+2025-02-07 10:24:43,491 - INFO - 127.0.0.1 - - [07/Feb/2025 10:24:43] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 10:25:08,107 - INFO - 127.0.0.1 - - [07/Feb/2025 10:25:08] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 10:25:08,504 - INFO - 127.0.0.1 - - [07/Feb/2025 10:25:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 12:18:34,876 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 12:18:34,990 - INFO -  * Restarting with stat
+2025-02-07 12:18:35,334 - WARNING -  * Debugger is active!
+2025-02-07 12:18:35,342 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 12:18:38,725 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 12:18:38,725 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 12:18:38,726 - INFO -  * Restarting with stat
+2025-02-07 12:18:38,933 - WARNING -  * Debugger is active!
+2025-02-07 12:18:38,945 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 12:18:43,289 - INFO - 127.0.0.1 - - [07/Feb/2025 12:18:43] "GET / HTTP/1.1" 200 -
+2025-02-07 12:18:43,659 - INFO - 127.0.0.1 - - [07/Feb/2025 12:18:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 12:19:09,375 - INFO - 127.0.0.1 - - [07/Feb/2025 12:19:09] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:19:09,572 - INFO - 127.0.0.1 - - [07/Feb/2025 12:19:09] "GET /subscriptions?channel_id=UC0C-w0YjGpqDXGB8IHb662A HTTP/1.1" 200 -
+2025-02-07 12:19:17,064 - INFO - 127.0.0.1 - - [07/Feb/2025 12:19:17] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:19:17,215 - INFO - 127.0.0.1 - - [07/Feb/2025 12:19:17] "GET /subscriptions?channel_id=UC0C-w0YjGpqDXGB8IHb662A HTTP/1.1" 200 -
+2025-02-07 12:19:20,344 - INFO - 127.0.0.1 - - [07/Feb/2025 12:19:20] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:19:20,520 - INFO - 127.0.0.1 - - [07/Feb/2025 12:19:20] "GET /subscriptions?channel_id=UC0C-w0YjGpqDXGB8IHb662A HTTP/1.1" 200 -
+2025-02-07 12:29:10,278 - INFO - 127.0.0.1 - - [07/Feb/2025 12:29:10] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:29:10,458 - INFO - 127.0.0.1 - - [07/Feb/2025 12:29:10] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 12:29:14,465 - INFO - 127.0.0.1 - - [07/Feb/2025 12:29:14] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:29:14,614 - INFO - 127.0.0.1 - - [07/Feb/2025 12:29:14] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 12:29:22,249 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 12:29:22,249 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 12:29:22,250 - INFO -  * Restarting with stat
+2025-02-07 12:29:22,457 - WARNING -  * Debugger is active!
+2025-02-07 12:29:22,467 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 12:29:23,759 - INFO - 127.0.0.1 - - [07/Feb/2025 12:29:23] "GET / HTTP/1.1" 200 -
+2025-02-07 12:29:27,302 - INFO - 127.0.0.1 - - [07/Feb/2025 12:29:27] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:29:27,458 - INFO - 127.0.0.1 - - [07/Feb/2025 12:29:27] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 12:30:02,912 - INFO - 127.0.0.1 - - [07/Feb/2025 12:30:02] "GET / HTTP/1.1" 200 -
+2025-02-07 12:30:03,229 - INFO - 127.0.0.1 - - [07/Feb/2025 12:30:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 12:30:17,364 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 12:30:17,364 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 12:30:17,364 - INFO -  * Restarting with stat
+2025-02-07 12:30:17,576 - WARNING -  * Debugger is active!
+2025-02-07 12:30:17,593 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 12:30:21,575 - INFO - 127.0.0.1 - - [07/Feb/2025 12:30:21] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 12:30:31,386 - INFO - 127.0.0.1 - - [07/Feb/2025 12:30:31] "[32mGET /callback?state=oQIQbRl8dnkx5vdrmyhc06p266aFhv&code=4/0ASVgi3II9ujoUrp3hh88S-rEqak6mHdnzAZcOTIYW9HGHcW_gZSch4hvFQ0GPKLLZcszkA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 12:30:31,397 - INFO - 127.0.0.1 - - [07/Feb/2025 12:30:31] "GET / HTTP/1.1" 200 -
+2025-02-07 12:30:35,975 - INFO - 127.0.0.1 - - [07/Feb/2025 12:30:35] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:30:45,228 - INFO - 127.0.0.1 - - [07/Feb/2025 12:30:45] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 12:41:25,084 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 12:41:25,084 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 12:41:25,084 - INFO -  * Restarting with stat
+2025-02-07 12:41:25,295 - WARNING -  * Debugger is active!
+2025-02-07 12:41:25,308 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 12:41:29,954 - INFO - 127.0.0.1 - - [07/Feb/2025 12:41:29] "GET / HTTP/1.1" 200 -
+2025-02-07 12:41:30,294 - INFO - 127.0.0.1 - - [07/Feb/2025 12:41:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 12:41:40,181 - INFO - 127.0.0.1 - - [07/Feb/2025 12:41:40] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:41:40,849 - INFO - 127.0.0.1 - - [07/Feb/2025 12:41:40] "GET /subscriptions?channel_id=UC0C-w0YjGpqDXGB8IHb662A HTTP/1.1" 200 -
+2025-02-07 12:44:36,833 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 12:44:36,873 - INFO -  * Restarting with stat
+2025-02-07 12:44:37,155 - WARNING -  * Debugger is active!
+2025-02-07 12:44:37,164 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 12:44:45,815 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 12:44:45,816 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 12:44:45,816 - INFO -  * Restarting with stat
+2025-02-07 12:44:46,020 - WARNING -  * Debugger is active!
+2025-02-07 12:44:46,030 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 12:45:05,630 - INFO - 127.0.0.1 - - [07/Feb/2025 12:45:05] "GET / HTTP/1.1" 200 -
+2025-02-07 12:45:09,885 - INFO - 127.0.0.1 - - [07/Feb/2025 12:45:09] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:45:19,011 - INFO - 127.0.0.1 - - [07/Feb/2025 12:45:19] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 12:46:39,548 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 12:46:39,548 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 12:46:39,549 - INFO -  * Restarting with stat
+2025-02-07 12:46:39,758 - WARNING -  * Debugger is active!
+2025-02-07 12:46:39,766 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 12:46:44,983 - INFO - 127.0.0.1 - - [07/Feb/2025 12:46:44] "GET / HTTP/1.1" 200 -
+2025-02-07 12:46:58,788 - INFO - 127.0.0.1 - - [07/Feb/2025 12:46:58] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 12:47:07,831 - INFO - 127.0.0.1 - - [07/Feb/2025 12:47:07] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 12:49:11,349 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 12:49:11,349 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 12:49:11,350 - INFO -  * Restarting with stat
+2025-02-07 12:49:11,568 - WARNING -  * Debugger is active!
+2025-02-07 12:49:11,577 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 14:01:18,699 - INFO - 127.0.0.1 - - [07/Feb/2025 14:01:18] "[31m[1mGET /callback?state=oQIQbRl8dnkx5vdrmyhc06p266aFhv&code=4/0ASVgi3IrJvzG-UR4-Ve9XK1BDQdayEWgk0jpCOUierGf7Kc0f7iT_zrzyYcmllF4pA7rQA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 400 -
+2025-02-07 14:01:22,026 - INFO - 127.0.0.1 - - [07/Feb/2025 14:01:22] "[31m[1mGET /callback?state=oQIQbRl8dnkx5vdrmyhc06p266aFhv&code=4/0ASVgi3IrJvzG-UR4-Ve9XK1BDQdayEWgk0jpCOUierGf7Kc0f7iT_zrzyYcmllF4pA7rQA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 400 -
+2025-02-07 14:01:22,105 - INFO - 127.0.0.1 - - [07/Feb/2025 14:01:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 14:01:26,141 - INFO - 127.0.0.1 - - [07/Feb/2025 14:01:26] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 14:01:34,215 - INFO - 127.0.0.1 - - [07/Feb/2025 14:01:34] "[32mGET /callback?state=k3zLeUavY9ZUtF56bM0xFe8N54tEai&code=4/0ASVgi3KE6hDhRrzTNVOEn3UdBxQLULDUGmPyPrd28fVhmMlIfAQiy2KrwTFMsY5CN8bv3w&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 14:01:34,234 - INFO - 127.0.0.1 - - [07/Feb/2025 14:01:34] "GET / HTTP/1.1" 200 -
+2025-02-07 14:09:54,729 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/youtube_api.py', reloading
+2025-02-07 14:09:54,775 - INFO -  * Restarting with stat
+2025-02-07 14:12:31,695 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 14:12:31,695 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 14:12:31,696 - INFO -  * Restarting with stat
+2025-02-07 14:12:31,908 - WARNING -  * Debugger is active!
+2025-02-07 14:12:31,917 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 14:12:36,966 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:36] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 14:12:39,591 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:39] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 14:12:48,263 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:48] "[32mGET /callback?state=S9lqej3vL4YN9hsL55J3v9GvLq3XVa&code=4/0ASVgi3IfqVZ3dVY2d8T35Y8x4dhsUptsr3_1CoYaNKRfDGb_QgYnGKWy_fZKjcqnIHoD8Q&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 14:12:48,272 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:48] "GET / HTTP/1.1" 200 -
+2025-02-07 14:12:51,730 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:51] "[35m[1mGET /youtube_files HTTP/1.1[0m" 500 -
+2025-02-07 14:12:51,746 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:51] "GET /youtube_files?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-07 14:12:51,748 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:51] "GET /youtube_files?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-07 14:12:51,774 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:51] "GET /youtube_files?__debugger__=yes&cmd=resource&f=console.png&s=Ks7AA3QX7w7Er5K5Zo5I HTTP/1.1" 200 -
+2025-02-07 14:12:51,804 - INFO - 127.0.0.1 - - [07/Feb/2025 14:12:51] "GET /youtube_files?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-07 14:17:04,881 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/youtube_api.py', reloading
+2025-02-07 14:17:04,919 - INFO -  * Restarting with stat
+2025-02-07 14:17:05,187 - WARNING -  * Debugger is active!
+2025-02-07 14:17:05,196 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 14:17:46,668 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 14:17:46,669 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 14:17:46,669 - INFO -  * Restarting with stat
+2025-02-07 14:17:46,879 - WARNING -  * Debugger is active!
+2025-02-07 14:17:46,888 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 14:17:58,911 - INFO - 127.0.0.1 - - [07/Feb/2025 14:17:58] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 14:17:59,634 - INFO - 127.0.0.1 - - [07/Feb/2025 14:17:59] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 14:18:21,743 - INFO - 127.0.0.1 - - [07/Feb/2025 14:18:21] "[32mGET /callback?state=qXNuRIa24lmzAvR2M2Nss5IrdCxmR8&code=4/0ASVgi3IfuGust_4noY8kc6RS4k4dmYZT1fRnwjIhuNLtdModIXssdKA7wERvnf1buuTSpw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 14:18:21,747 - INFO - 127.0.0.1 - - [07/Feb/2025 14:18:21] "GET / HTTP/1.1" 200 -
+2025-02-07 14:18:23,695 - INFO - 127.0.0.1 - - [07/Feb/2025 14:18:23] "GET /youtube_files HTTP/1.1" 200 -
+2025-02-07 14:19:28,139 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/templates/youtube_api.py', reloading
+2025-02-07 14:19:28,169 - INFO -  * Restarting with stat
+2025-02-07 14:19:47,702 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 14:19:47,702 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 14:19:47,703 - INFO -  * Restarting with stat
+2025-02-07 14:19:47,909 - WARNING -  * Debugger is active!
+2025-02-07 14:19:47,921 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 14:20:01,110 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:01] "[35m[1mGET /login HTTP/1.1[0m" 500 -
+2025-02-07 14:20:01,149 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:01] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-07 14:20:01,149 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:01] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-07 14:20:01,167 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:01] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=eG94ie6NJ6XNCLGCJ4WU HTTP/1.1" 200 -
+2025-02-07 14:20:01,210 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:01] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-07 14:20:41,199 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:41] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 14:20:47,123 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 14:20:47,123 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 14:20:47,124 - INFO -  * Restarting with stat
+2025-02-07 14:20:47,325 - WARNING -  * Debugger is active!
+2025-02-07 14:20:47,337 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 14:20:57,008 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:57] "[32mGET /callback?state=mcNa7hxi2AQxeNAteZArFl4t150hbZ&code=4/0ASVgi3I3iacx2c08J8Bk0AjqsYDHa3BkIhBknEs5ufwzalQ1FOVtAUPan4KAmc-GwTlGBA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 14:20:57,031 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-02-07 14:20:57,070 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:57] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-02-07 14:20:57,070 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:57] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-02-07 14:20:57,176 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:57] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=UZY5qoC0n6nyGvpKPbfB HTTP/1.1" 200 -
+2025-02-07 14:20:57,273 - INFO - 127.0.0.1 - - [07/Feb/2025 14:20:57] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-02-07 15:40:15,300 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 15:40:15,300 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 15:40:15,300 - INFO -  * Restarting with stat
+2025-02-07 15:40:15,509 - WARNING -  * Debugger is active!
+2025-02-07 15:40:15,517 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:40:21,594 - INFO - 127.0.0.1 - - [07/Feb/2025 15:40:21] "GET / HTTP/1.1" 200 -
+2025-02-07 15:40:21,735 - INFO - 127.0.0.1 - - [07/Feb/2025 15:40:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 15:40:25,630 - INFO - 127.0.0.1 - - [07/Feb/2025 15:40:25] "GET /youtube_files HTTP/1.1" 200 -
+2025-02-07 15:41:16,556 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/youtube_api.py', reloading
+2025-02-07 15:41:16,585 - INFO -  * Restarting with stat
+2025-02-07 15:41:16,869 - WARNING -  * Debugger is active!
+2025-02-07 15:41:16,876 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:41:24,654 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 15:41:24,654 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 15:41:24,655 - INFO -  * Restarting with stat
+2025-02-07 15:41:24,861 - WARNING -  * Debugger is active!
+2025-02-07 15:41:24,867 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:41:30,254 - INFO - 127.0.0.1 - - [07/Feb/2025 15:41:30] "GET /youtube_files HTTP/1.1" 200 -
+2025-02-07 15:41:30,340 - INFO - 127.0.0.1 - - [07/Feb/2025 15:41:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 15:43:23,466 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/youtube_api.py', reloading
+2025-02-07 15:43:23,501 - INFO -  * Restarting with stat
+2025-02-07 15:43:23,774 - WARNING -  * Debugger is active!
+2025-02-07 15:43:23,783 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:43:40,211 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/youtube_api.py', reloading
+2025-02-07 15:43:40,240 - INFO -  * Restarting with stat
+2025-02-07 15:43:40,506 - WARNING -  * Debugger is active!
+2025-02-07 15:43:40,514 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:44:07,831 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 15:44:07,831 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 15:44:07,831 - INFO -  * Restarting with stat
+2025-02-07 15:44:08,045 - WARNING -  * Debugger is active!
+2025-02-07 15:44:08,054 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:44:13,869 - INFO - 127.0.0.1 - - [07/Feb/2025 15:44:13] "GET /youtube_files HTTP/1.1" 200 -
+2025-02-07 15:44:13,956 - INFO - 127.0.0.1 - - [07/Feb/2025 15:44:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 15:44:17,414 - INFO - 127.0.0.1 - - [07/Feb/2025 15:44:17] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 15:44:18,012 - INFO - 127.0.0.1 - - [07/Feb/2025 15:44:18] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 15:44:25,369 - INFO - 127.0.0.1 - - [07/Feb/2025 15:44:25] "[32mGET /callback?state=2Z3BYrRQM3rJiYTZOr5N2gIMvUaqUU&code=4/0ASVgi3LlxlwJCZ7slMNo2x7TbRv212rqjAjXOGNOtMv9VIEKtQkgn0vvvdfA1avrgo5bLw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 15:44:25,379 - INFO - 127.0.0.1 - - [07/Feb/2025 15:44:25] "GET / HTTP/1.1" 200 -
+2025-02-07 15:44:26,937 - INFO - 127.0.0.1 - - [07/Feb/2025 15:44:26] "GET /youtube_files HTTP/1.1" 200 -
+2025-02-07 15:45:48,126 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/youtube_api.py', reloading
+2025-02-07 15:45:48,155 - INFO -  * Restarting with stat
+2025-02-07 15:45:48,436 - WARNING -  * Debugger is active!
+2025-02-07 15:45:48,446 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:45:52,884 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/youtube_api.py', reloading
+2025-02-07 15:45:52,911 - INFO -  * Restarting with stat
+2025-02-07 15:45:53,116 - WARNING -  * Debugger is active!
+2025-02-07 15:45:53,122 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:46:23,598 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 15:46:23,599 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 15:46:23,599 - INFO -  * Restarting with stat
+2025-02-07 15:46:23,804 - WARNING -  * Debugger is active!
+2025-02-07 15:46:23,813 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:46:29,294 - INFO - 127.0.0.1 - - [07/Feb/2025 15:46:29] "[33mGET /youtube_files HTTP/1.1[0m" 404 -
+2025-02-07 15:46:29,372 - INFO - 127.0.0.1 - - [07/Feb/2025 15:46:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 15:46:35,662 - INFO - 127.0.0.1 - - [07/Feb/2025 15:46:35] "GET / HTTP/1.1" 200 -
+2025-02-07 15:46:37,312 - INFO - 127.0.0.1 - - [07/Feb/2025 15:46:37] "[33mGET /youtube_ui HTTP/1.1[0m" 404 -
+2025-02-07 15:47:30,194 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/youtube_api.py', reloading
+2025-02-07 15:47:30,220 - INFO -  * Restarting with stat
+2025-02-07 15:47:30,494 - WARNING -  * Debugger is active!
+2025-02-07 15:47:30,505 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:47:35,029 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 15:47:35,029 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 15:47:35,029 - INFO -  * Restarting with stat
+2025-02-07 15:47:35,236 - WARNING -  * Debugger is active!
+2025-02-07 15:47:35,243 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:47:43,970 - INFO - 127.0.0.1 - - [07/Feb/2025 15:47:43] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-07 15:47:44,051 - INFO - 127.0.0.1 - - [07/Feb/2025 15:47:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 15:47:49,671 - INFO - 127.0.0.1 - - [07/Feb/2025 15:47:49] "GET / HTTP/1.1" 200 -
+2025-02-07 15:47:51,366 - INFO - 127.0.0.1 - - [07/Feb/2025 15:47:51] "[33mGET /youtube_api HTTP/1.1[0m" 404 -
+2025-02-07 15:47:57,251 - INFO - 127.0.0.1 - - [07/Feb/2025 15:47:57] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 15:48:01,552 - INFO - 127.0.0.1 - - [07/Feb/2025 15:48:01] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 15:48:02,216 - INFO - 127.0.0.1 - - [07/Feb/2025 15:48:02] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 15:48:09,036 - INFO - 127.0.0.1 - - [07/Feb/2025 15:48:09] "[32mGET /callback?state=s1wwI9WZa0zLm9n9qPDMWW0hjROEhW&code=4/0ASVgi3J838vH3wsylGPy2R3JpjfvUAOUNyHO8WkdoQhdk-jL1UvJ4y26J1ieVVmdQ7hYFw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 15:48:09,040 - INFO - 127.0.0.1 - - [07/Feb/2025 15:48:09] "GET / HTTP/1.1" 200 -
+2025-02-07 15:48:10,548 - INFO - 127.0.0.1 - - [07/Feb/2025 15:48:10] "[33mGET /youtube_api HTTP/1.1[0m" 404 -
+2025-02-07 15:50:37,269 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 15:50:37,269 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 15:50:37,270 - INFO -  * Restarting with stat
+2025-02-07 15:50:37,470 - WARNING -  * Debugger is active!
+2025-02-07 15:50:37,478 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:50:39,677 - INFO - 127.0.0.1 - - [07/Feb/2025 15:50:39] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 15:50:40,482 - INFO - 127.0.0.1 - - [07/Feb/2025 15:50:40] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 15:50:47,405 - INFO - 127.0.0.1 - - [07/Feb/2025 15:50:47] "[32mGET /callback?state=nxeos5TXL55fsEaf37sW9kpvOvqf9g&code=4/0ASVgi3Luratmx7N3vYyqtht7E_cRpBg3MzJCtFMGbElAWYKmg4F1pNUaylatPaZm0fFQSg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 15:50:47,412 - INFO - 127.0.0.1 - - [07/Feb/2025 15:50:47] "GET / HTTP/1.1" 200 -
+2025-02-07 15:50:48,884 - INFO - 127.0.0.1 - - [07/Feb/2025 15:50:48] "[33mGET /youtube_api HTTP/1.1[0m" 404 -
+2025-02-07 15:52:24,443 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 15:52:24,443 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 15:52:24,444 - INFO -  * Restarting with stat
+2025-02-07 15:52:24,650 - WARNING -  * Debugger is active!
+2025-02-07 15:52:24,657 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 15:52:28,925 - INFO - 127.0.0.1 - - [07/Feb/2025 15:52:28] "[33mGET /youtube_api HTTP/1.1[0m" 404 -
+2025-02-07 15:52:29,002 - INFO - 127.0.0.1 - - [07/Feb/2025 15:52:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 15:52:35,323 - INFO - 127.0.0.1 - - [07/Feb/2025 15:52:35] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 15:52:42,187 - INFO - 127.0.0.1 - - [07/Feb/2025 15:52:42] "[32mGET /callback?state=Hi84Osq7Y3T5E0y3FctfhmbJ2woECP&code=4/0ASVgi3LUjeYN3_N1pbIglyTOMFFErupehYR2XqTY1pQu2fg9cfaaqZuhTUIdRkrpOxMdbw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 15:52:42,192 - INFO - 127.0.0.1 - - [07/Feb/2025 15:52:42] "GET / HTTP/1.1" 200 -
+2025-02-07 15:52:43,649 - INFO - 127.0.0.1 - - [07/Feb/2025 15:52:43] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-07 15:52:59,028 - INFO - 127.0.0.1 - - [07/Feb/2025 15:52:59] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 15:53:08,302 - INFO - 127.0.0.1 - - [07/Feb/2025 15:53:08] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-07 16:32:06,404 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 16:32:06,404 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 16:32:06,405 - INFO -  * Restarting with stat
+2025-02-07 16:32:06,618 - WARNING -  * Debugger is active!
+2025-02-07 16:32:06,628 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:32:12,679 - INFO - 127.0.0.1 - - [07/Feb/2025 16:32:12] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-07 16:32:18,826 - INFO - 127.0.0.1 - - [07/Feb/2025 16:32:18] "GET / HTTP/1.1" 200 -
+2025-02-07 16:32:20,312 - INFO - 127.0.0.1 - - [07/Feb/2025 16:32:20] "[33mGET /twitter_ui HTTP/1.1[0m" 404 -
+2025-02-07 16:33:30,734 - INFO - 127.0.0.1 - - [07/Feb/2025 16:33:30] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-07 16:33:37,030 - INFO - 127.0.0.1 - - [07/Feb/2025 16:33:37] "[33mGET /twitter_ui HTTP/1.1[0m" 404 -
+2025-02-07 16:36:04,497 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:36:04,530 - INFO -  * Restarting with stat
+2025-02-07 16:36:04,822 - WARNING -  * Debugger is active!
+2025-02-07 16:36:04,830 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:36:14,689 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:36:14,717 - INFO -  * Restarting with stat
+2025-02-07 16:36:15,008 - WARNING -  * Debugger is active!
+2025-02-07 16:36:15,018 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:36:26,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 16:36:26,649 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 16:36:26,650 - INFO -  * Restarting with stat
+2025-02-07 16:36:26,861 - WARNING -  * Debugger is active!
+2025-02-07 16:36:26,869 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:36:36,965 - INFO - 127.0.0.1 - - [07/Feb/2025 16:36:36] "GET /twitter_ui HTTP/1.1" 200 -
+2025-02-07 16:36:52,273 - INFO - 127.0.0.1 - - [07/Feb/2025 16:36:52] "[35m[1mGET /twitter_following?username=@RealAlexJones HTTP/1.1[0m" 500 -
+2025-02-07 16:37:04,506 - INFO - 127.0.0.1 - - [07/Feb/2025 16:37:04] "[35m[1mGET /twitter_following?username=RealAlexJones HTTP/1.1[0m" 500 -
+2025-02-07 16:40:13,388 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:40:13,422 - INFO -  * Restarting with stat
+2025-02-07 16:40:13,722 - WARNING -  * Debugger is active!
+2025-02-07 16:40:13,730 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:40:24,725 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:40:24,752 - INFO -  * Restarting with stat
+2025-02-07 16:40:25,030 - WARNING -  * Debugger is active!
+2025-02-07 16:40:25,036 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:40:32,795 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:40:32,831 - INFO -  * Restarting with stat
+2025-02-07 16:40:33,107 - WARNING -  * Debugger is active!
+2025-02-07 16:40:33,115 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:40:42,163 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 16:40:42,163 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 16:40:42,164 - INFO -  * Restarting with stat
+2025-02-07 16:40:42,384 - WARNING -  * Debugger is active!
+2025-02-07 16:40:42,392 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:40:47,923 - INFO - 127.0.0.1 - - [07/Feb/2025 16:40:47] "GET /twitter_ui HTTP/1.1" 200 -
+2025-02-07 16:40:48,008 - INFO - 127.0.0.1 - - [07/Feb/2025 16:40:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 16:41:00,543 - INFO - 127.0.0.1 - - [07/Feb/2025 16:41:00] "[35m[1mGET /twitter_following?username=RealAlexJones HTTP/1.1[0m" 500 -
+2025-02-07 16:41:09,676 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:41:09,714 - INFO -  * Restarting with stat
+2025-02-07 16:41:10,006 - WARNING -  * Debugger is active!
+2025-02-07 16:41:10,014 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:45:33,653 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:45:33,691 - INFO -  * Restarting with stat
+2025-02-07 16:45:33,984 - WARNING -  * Debugger is active!
+2025-02-07 16:45:33,991 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:45:41,961 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 16:45:41,961 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 16:45:41,962 - INFO -  * Restarting with stat
+2025-02-07 16:45:42,184 - WARNING -  * Debugger is active!
+2025-02-07 16:45:42,190 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:45:50,231 - INFO - 127.0.0.1 - - [07/Feb/2025 16:45:50] "GET /twitter_ui HTTP/1.1" 200 -
+2025-02-07 16:46:00,742 - INFO - 127.0.0.1 - - [07/Feb/2025 16:46:00] "[35m[1mGET /twitter_following?username=RealAlexJones HTTP/1.1[0m" 500 -
+2025-02-07 16:47:33,204 - INFO - 127.0.0.1 - - [07/Feb/2025 16:47:33] "[35m[1mGET /twitter_following?username=YeAfek HTTP/1.1[0m" 500 -
+2025-02-07 16:47:55,692 - INFO - 127.0.0.1 - - [07/Feb/2025 16:47:55] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 16:48:04,361 - INFO - 127.0.0.1 - - [07/Feb/2025 16:48:04] "[32mGET /callback?state=J5urlemnnLvBu6Jcpt7hKIgTdbyKg5&code=4/0ASVgi3Lf90YOMAsNwz-nLjQTh4HAyqKlMWkfnAyTYt0kHPsl_mXqJRUASkdE5N4Ftz-_Rg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 16:48:04,370 - INFO - 127.0.0.1 - - [07/Feb/2025 16:48:04] "GET / HTTP/1.1" 200 -
+2025-02-07 16:48:06,226 - INFO - 127.0.0.1 - - [07/Feb/2025 16:48:06] "GET /twitter_ui HTTP/1.1" 200 -
+2025-02-07 16:48:12,080 - INFO - 127.0.0.1 - - [07/Feb/2025 16:48:12] "[35m[1mGET /twitter_following?username=YeAfek HTTP/1.1[0m" 500 -
+2025-02-07 16:50:05,542 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:50:05,572 - INFO -  * Restarting with stat
+2025-02-07 16:50:05,865 - WARNING -  * Debugger is active!
+2025-02-07 16:50:05,877 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:50:15,469 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 16:50:15,469 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 16:50:15,470 - INFO -  * Restarting with stat
+2025-02-07 16:50:15,689 - WARNING -  * Debugger is active!
+2025-02-07 16:50:15,698 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:50:20,936 - INFO - 127.0.0.1 - - [07/Feb/2025 16:50:20] "GET /twitter_ui HTTP/1.1" 200 -
+2025-02-07 16:50:21,239 - INFO - 127.0.0.1 - - [07/Feb/2025 16:50:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 16:50:30,389 - INFO - 127.0.0.1 - - [07/Feb/2025 16:50:30] "[35m[1mGET /twitter_following?username=YeAfek HTTP/1.1[0m" 500 -
+2025-02-07 16:53:12,139 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:53:12,180 - INFO -  * Restarting with stat
+2025-02-07 16:53:12,470 - WARNING -  * Debugger is active!
+2025-02-07 16:53:12,478 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:53:22,359 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 16:53:22,389 - INFO -  * Restarting with stat
+2025-02-07 16:53:22,672 - WARNING -  * Debugger is active!
+2025-02-07 16:53:22,684 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:53:34,685 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 16:53:34,685 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 16:53:34,686 - INFO -  * Restarting with stat
+2025-02-07 16:53:34,906 - WARNING -  * Debugger is active!
+2025-02-07 16:53:34,912 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 16:53:41,428 - INFO - 127.0.0.1 - - [07/Feb/2025 16:53:41] "GET /twitter_ui HTTP/1.1" 200 -
+2025-02-07 16:53:41,724 - INFO - 127.0.0.1 - - [07/Feb/2025 16:53:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 16:53:49,640 - INFO - 127.0.0.1 - - [07/Feb/2025 16:53:49] "[35m[1mGET /twitter_following?username=yaAfek HTTP/1.1[0m" 500 -
+2025-02-07 16:55:31,515 - INFO - 127.0.0.1 - - [07/Feb/2025 16:55:31] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 17:00:52,664 - INFO - 127.0.0.1 - - [07/Feb/2025 17:00:52] "[35m[1mGET /twitter_following?username=yaAfek HTTP/1.1[0m" 500 -
+2025-02-07 17:00:56,019 - INFO - 127.0.0.1 - - [07/Feb/2025 17:00:56] "[35m[1mGET /twitter_following?username=yaAfek HTTP/1.1[0m" 500 -
+2025-02-07 17:17:55,832 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 17:17:55,832 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 17:17:55,833 - INFO -  * Restarting with stat
+2025-02-07 17:17:56,039 - WARNING -  * Debugger is active!
+2025-02-07 17:17:56,047 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 17:18:00,410 - INFO - 127.0.0.1 - - [07/Feb/2025 17:18:00] "GET /twitter_ui HTTP/1.1" 200 -
+2025-02-07 17:18:00,732 - INFO - 127.0.0.1 - - [07/Feb/2025 17:18:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-07 17:18:15,155 - INFO - 127.0.0.1 - - [07/Feb/2025 17:18:15] "[35m[1mGET /twitter_following?username=YeAfek HTTP/1.1[0m" 500 -
+2025-02-07 17:19:42,755 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-07 17:19:42,793 - INFO -  * Restarting with stat
+2025-02-07 17:19:43,088 - WARNING -  * Debugger is active!
+2025-02-07 17:19:43,096 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 17:24:45,247 - INFO - 127.0.0.1 - - [07/Feb/2025 17:24:45] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-07 17:25:27,352 - INFO - 127.0.0.1 - - [07/Feb/2025 17:25:27] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 17:25:34,296 - INFO - 127.0.0.1 - - [07/Feb/2025 17:25:34] "GET /subscriptions?channel_id=UCanZdp_rDbMg4fyX5WB8MgA HTTP/1.1" 200 -
+2025-02-07 17:25:34,308 - INFO - 127.0.0.1 - - [07/Feb/2025 17:25:34] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 17:25:41,211 - INFO - 127.0.0.1 - - [07/Feb/2025 17:25:41] "GET /subscriptions?channel_id=UCanZdp_rDbMg4fyX5WB8MgA HTTP/1.1" 200 -
+2025-02-07 17:25:56,865 - INFO - 127.0.0.1 - - [07/Feb/2025 17:25:56] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 17:25:58,015 - INFO - 127.0.0.1 - - [07/Feb/2025 17:25:58] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 17:26:19,019 - INFO - 127.0.0.1 - - [07/Feb/2025 17:26:19] "[32mGET /callback?state=9kIbSNIeTnuL1GAomS8kAFmWzaY5oQ&code=4/0ASVgi3JzQHTho8GU5s5r6yAkR2zpT3ij_4Mew3FnVCbdNzTOmAcxFs-th9R5SMusZMT7Cg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 17:26:19,032 - INFO - 127.0.0.1 - - [07/Feb/2025 17:26:19] "GET / HTTP/1.1" 200 -
+2025-02-07 17:26:23,265 - INFO - 127.0.0.1 - - [07/Feb/2025 17:26:23] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-07 17:26:43,145 - INFO - 127.0.0.1 - - [07/Feb/2025 17:26:43] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 17:26:49,641 - INFO - 127.0.0.1 - - [07/Feb/2025 17:26:49] "GET /subscriptions?channel_id=UCanZdp_rDbMg4fyX5WB8MgA HTTP/1.1" 200 -
+2025-02-07 17:27:25,163 - INFO - 127.0.0.1 - - [07/Feb/2025 17:27:25] "POST /batch_subscribe HTTP/1.1" 200 -
+2025-02-07 21:43:27,818 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-07 21:43:27,818 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-07 21:43:27,819 - INFO -  * Restarting with stat
+2025-02-07 21:43:28,041 - WARNING -  * Debugger is active!
+2025-02-07 21:43:28,051 - INFO -  * Debugger PIN: 129-813-237
+2025-02-07 21:43:30,909 - INFO - 127.0.0.1 - - [07/Feb/2025 21:43:30] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-07 21:43:44,861 - INFO - 127.0.0.1 - - [07/Feb/2025 21:43:44] "[32mGET /callback?state=zDUNOrxfO2RH8VDUtI1ibBx7DQPSZH&code=4/0ASVgi3L1beioaUCwJlINakldhLTd4jMzW9ZmD7C8iE0lOrbXiejhUDvD0BmWeqlIZArV9w&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-07 21:43:44,870 - INFO - 127.0.0.1 - - [07/Feb/2025 21:43:44] "GET / HTTP/1.1" 200 -
+2025-02-07 21:43:54,150 - INFO - 127.0.0.1 - - [07/Feb/2025 21:43:54] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-07 21:44:59,252 - INFO - 127.0.0.1 - - [07/Feb/2025 21:44:59] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 21:45:06,209 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:06] "GET /subscriptions?channel_id=UCanZdp_rDbMg4fyX5WB8MgA HTTP/1.1" 200 -
+2025-02-07 21:45:06,213 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:06] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 21:45:12,654 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:12] "GET /subscriptions?channel_id=UCanZdp_rDbMg4fyX5WB8MgA HTTP/1.1" 200 -
+2025-02-07 21:45:12,660 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:12] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 21:45:19,224 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:19] "GET /subscriptions?channel_id=UCanZdp_rDbMg4fyX5WB8MgA HTTP/1.1" 200 -
+2025-02-07 21:45:19,230 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:19] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 21:45:25,641 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:25] "GET /subscriptions?channel_id=UCanZdp_rDbMg4fyX5WB8MgA HTTP/1.1" 200 -
+2025-02-07 21:45:25,645 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:25] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-07 21:45:32,049 - INFO - 127.0.0.1 - - [07/Feb/2025 21:45:32] "GET /subscriptions?channel_id=UCanZdp_rDbMg4fyX5WB8MgA HTTP/1.1" 200 -
+2025-02-07 21:48:16,466 - INFO - 127.0.0.1 - - [07/Feb/2025 21:48:16] "POST /batch_subscribe HTTP/1.1" 200 -
+2025-02-10 12:11:19,143 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-10 12:11:19,143 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-10 12:11:19,144 - INFO -  * Restarting with stat
+2025-02-10 12:11:19,366 - WARNING -  * Debugger is active!
+2025-02-10 12:11:19,375 - INFO -  * Debugger PIN: 129-813-237
+2025-02-10 12:11:24,674 - INFO - 127.0.0.1 - - [10/Feb/2025 12:11:24] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-10 12:11:25,687 - INFO - 127.0.0.1 - - [10/Feb/2025 12:11:25] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-10 12:11:39,612 - INFO - 127.0.0.1 - - [10/Feb/2025 12:11:39] "[32mGET /callback?state=jvhHZGYbjdUcEmZqbqXxs7iuVf3R1d&code=4/0ASVgi3KOSQUYc37yRLt5v_QeyX4LlRecRZ7m0E3V38JifetoZG8MVBpkUY28Te3s4lBlpQ&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-10 12:11:39,630 - INFO - 127.0.0.1 - - [10/Feb/2025 12:11:39] "GET / HTTP/1.1" 200 -
+2025-02-10 12:11:39,671 - INFO - 127.0.0.1 - - [10/Feb/2025 12:11:39] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-10 12:11:41,881 - INFO - 127.0.0.1 - - [10/Feb/2025 12:11:41] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-10 12:11:41,894 - INFO - 127.0.0.1 - - [10/Feb/2025 12:11:41] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-10 14:56:53,218 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-10 14:56:53,218 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-10 14:56:53,219 - INFO -  * Restarting with stat
+2025-02-10 14:56:53,437 - WARNING -  * Debugger is active!
+2025-02-10 14:56:53,446 - INFO -  * Debugger PIN: 129-813-237
+2025-02-10 14:56:56,148 - INFO - 127.0.0.1 - - [10/Feb/2025 14:56:56] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-10 14:56:56,178 - INFO - 127.0.0.1 - - [10/Feb/2025 14:56:56] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-10 14:56:56,331 - INFO - 127.0.0.1 - - [10/Feb/2025 14:56:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-11 16:09:43,850 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/wsgi.py', reloading
+2025-02-11 16:09:43,946 - INFO -  * Restarting with stat
+2025-02-11 16:09:44,288 - WARNING -  * Debugger is active!
+2025-02-11 16:09:44,305 - INFO -  * Debugger PIN: 129-813-237
+2025-02-22 09:42:30,804 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 09:42:30,808 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 09:42:30,809 - INFO -  * Restarting with stat
+2025-02-22 09:42:31,045 - WARNING -  * Debugger is active!
+2025-02-22 09:42:31,055 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 09:42:35,738 - INFO - 127.0.0.1 - - [22/Feb/2025 09:42:35] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 09:42:36,808 - INFO - 127.0.0.1 - - [22/Feb/2025 09:42:36] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 09:42:46,885 - INFO - 127.0.0.1 - - [22/Feb/2025 09:42:46] "[32mGET /callback?state=y00vJXqkIhNhpxldVhLqhaKgc7VWMP&code=4/0ASVgi3KjinuniMJe9VVE1pXZ2ApE0eKbzx2XJdjK0SiEhYgJowoCMMLgnwwv-Q_E2TgIbw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-22 09:42:46,905 - INFO - 127.0.0.1 - - [22/Feb/2025 09:42:46] "GET / HTTP/1.1" 200 -
+2025-02-22 09:42:46,935 - INFO - 127.0.0.1 - - [22/Feb/2025 09:42:46] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-22 09:42:47,148 - INFO - 127.0.0.1 - - [22/Feb/2025 09:42:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 09:42:53,882 - INFO - 127.0.0.1 - - [22/Feb/2025 09:42:53] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 09:42:53,898 - INFO - 127.0.0.1 - - [22/Feb/2025 09:42:53] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-22 10:06:22,763 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 10:06:22,852 - INFO -  * Restarting with stat
+2025-02-22 10:06:23,245 - WARNING -  * Debugger is active!
+2025-02-22 10:06:23,263 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:06:29,464 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 10:06:29,464 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 10:06:29,464 - INFO -  * Restarting with stat
+2025-02-22 10:06:29,688 - WARNING -  * Debugger is active!
+2025-02-22 10:06:29,695 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:06:33,038 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:33] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:06:33,069 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:33] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-22 10:06:33,247 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 10:06:37,398 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:37] "GET / HTTP/1.1" 200 -
+2025-02-22 10:06:37,470 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:37] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-22 10:06:43,581 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:43] "[33mGET /register HTTP/1.1[0m" 404 -
+2025-02-22 10:06:46,725 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:46] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:06:55,071 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:55] "[32mGET /callback?state=itaFewXDH0ERn2wk4UV00MchkLjNdu&code=4/0ASVgi3IPpU2lA8mcv15vU1E0xqPfFD5zIGGv6AqND-BKJ4tL7yZtKmQdTse1JUHDdZOWxA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-22 10:06:55,075 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:55] "GET / HTTP/1.1" 200 -
+2025-02-22 10:06:55,130 - INFO - 127.0.0.1 - - [22/Feb/2025 10:06:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:07:00,123 - INFO - 127.0.0.1 - - [22/Feb/2025 10:07:00] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:07:08,201 - INFO - 127.0.0.1 - - [22/Feb/2025 10:07:08] "[32mGET /callback?state=uSO2FiIeD3kjjThXnX1s7tunrYgoV7&code=4/0ASVgi3IdxEJtXpVuMw3ip_x_0ZtyLVX1GnPpCFMh06H9DLnZN3USCyAa1wFP1jI9A6_kJA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-22 10:07:08,206 - INFO - 127.0.0.1 - - [22/Feb/2025 10:07:08] "GET / HTTP/1.1" 200 -
+2025-02-22 10:07:08,225 - INFO - 127.0.0.1 - - [22/Feb/2025 10:07:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:20:04,816 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 10:20:04,950 - INFO -  * Restarting with stat
+2025-02-22 10:20:05,456 - WARNING -  * Debugger is active!
+2025-02-22 10:20:05,466 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:20:41,815 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 10:20:41,873 - INFO -  * Restarting with stat
+2025-02-22 10:20:42,193 - WARNING -  * Debugger is active!
+2025-02-22 10:20:42,202 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:21:27,429 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 10:21:27,429 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 10:21:27,430 - INFO -  * Restarting with stat
+2025-02-22 10:21:27,652 - WARNING -  * Debugger is active!
+2025-02-22 10:21:27,660 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:21:36,895 - INFO - 127.0.0.1 - - [22/Feb/2025 10:21:36] "GET / HTTP/1.1" 200 -
+2025-02-22 10:21:36,968 - INFO - 127.0.0.1 - - [22/Feb/2025 10:21:36] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-22 10:21:43,012 - INFO - 127.0.0.1 - - [22/Feb/2025 10:21:43] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:21:54,186 - INFO - 127.0.0.1 - - [22/Feb/2025 10:21:54] "[32mGET /callback?state=Tvxu1v1BUwg8TdoHKIarFBTk3p0hDx&code=4/0ASVgi3LmxLreihBR8C1y61vxZoJUUiBp7_N97vSUhD363QJI4ZffOW0cHUpXq_QdDSWfTA&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-22 10:21:54,199 - INFO - 127.0.0.1 - - [22/Feb/2025 10:21:54] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:21:54,270 - INFO - 127.0.0.1 - - [22/Feb/2025 10:21:54] "[33mGET /static/style.css HTTP/1.1[0m" 404 -
+2025-02-22 10:24:35,570 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 10:24:35,571 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 10:24:35,572 - INFO -  * Restarting with stat
+2025-02-22 10:24:35,800 - WARNING -  * Debugger is active!
+2025-02-22 10:24:35,807 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:25:25,562 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 10:25:25,562 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 10:25:25,563 - INFO -  * Restarting with stat
+2025-02-22 10:25:25,790 - WARNING -  * Debugger is active!
+2025-02-22 10:25:25,798 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:25:29,350 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:29] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:25:29,378 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:29] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-22 10:25:29,466 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 10:25:35,928 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:35] "GET / HTTP/1.1" 200 -
+2025-02-22 10:25:35,955 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:25:39,311 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:39] "GET / HTTP/1.1" 200 -
+2025-02-22 10:25:39,351 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:25:41,887 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:41] "GET / HTTP/1.1" 200 -
+2025-02-22 10:25:41,924 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:41] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-22 10:25:41,977 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 10:25:43,025 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:43] "GET / HTTP/1.1" 200 -
+2025-02-22 10:25:43,038 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:43] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-22 10:25:43,090 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 10:25:49,100 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:49] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:25:50,072 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:50] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:25:52,947 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:52] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:25:55,009 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:55] "GET / HTTP/1.1" 200 -
+2025-02-22 10:25:55,058 - INFO - 127.0.0.1 - - [22/Feb/2025 10:25:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:26:03,691 - INFO - 127.0.0.1 - - [22/Feb/2025 10:26:03] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:26:15,411 - INFO - 127.0.0.1 - - [22/Feb/2025 10:26:15] "[32mGET /callback?state=ZB9ewSXU4wQdfUmD96Jvh0ZeoNlaf2&code=4/0ASVgi3IoAt5z-acsCwDUJGZGDcJAf7UMHly_TPrdIFRyQUVrVihW9lcMYSCMLsS0RULlGg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-22 10:26:15,421 - INFO - 127.0.0.1 - - [22/Feb/2025 10:26:15] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:26:15,537 - INFO - 127.0.0.1 - - [22/Feb/2025 10:26:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:27:06,675 - INFO - 127.0.0.1 - - [22/Feb/2025 10:27:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:28:09,341 - INFO - 127.0.0.1 - - [22/Feb/2025 10:28:09] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:28:10,144 - INFO - 127.0.0.1 - - [22/Feb/2025 10:28:10] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:28:13,618 - INFO - 127.0.0.1 - - [22/Feb/2025 10:28:13] "GET / HTTP/1.1" 200 -
+2025-02-22 10:28:13,649 - INFO - 127.0.0.1 - - [22/Feb/2025 10:28:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:39:31,806 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 10:39:31,807 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 10:39:31,807 - INFO -  * Restarting with stat
+2025-02-22 10:39:32,034 - WARNING -  * Debugger is active!
+2025-02-22 10:39:32,043 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:39:38,420 - INFO - 127.0.0.1 - - [22/Feb/2025 10:39:38] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:39:38,588 - INFO - 127.0.0.1 - - [22/Feb/2025 10:39:38] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-22 10:39:43,614 - INFO - 127.0.0.1 - - [22/Feb/2025 10:39:43] "GET / HTTP/1.1" 200 -
+2025-02-22 10:39:43,665 - INFO - 127.0.0.1 - - [22/Feb/2025 10:39:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:39:47,116 - INFO - 127.0.0.1 - - [22/Feb/2025 10:39:47] "[33mGET /choose_login HTTP/1.1[0m" 404 -
+2025-02-22 10:39:51,630 - INFO - 127.0.0.1 - - [22/Feb/2025 10:39:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:41:00,467 - INFO - 127.0.0.1 - - [22/Feb/2025 10:41:00] "[33mGET /choose_login HTTP/1.1[0m" 404 -
+2025-02-22 10:43:17,225 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 10:43:17,301 - INFO -  * Restarting with stat
+2025-02-22 10:43:17,626 - WARNING -  * Debugger is active!
+2025-02-22 10:43:17,641 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:43:23,700 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 10:43:23,736 - INFO -  * Restarting with stat
+2025-02-22 10:43:24,043 - WARNING -  * Debugger is active!
+2025-02-22 10:43:24,051 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:43:48,658 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 10:43:48,747 - INFO -  * Restarting with stat
+2025-02-22 10:43:49,146 - WARNING -  * Debugger is active!
+2025-02-22 10:43:49,170 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:44:08,340 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 10:44:08,402 - INFO -  * Restarting with stat
+2025-02-22 10:44:08,772 - WARNING -  * Debugger is active!
+2025-02-22 10:44:08,784 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:45:27,807 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 10:45:27,807 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 10:45:27,807 - INFO -  * Restarting with stat
+2025-02-22 10:45:28,032 - WARNING -  * Debugger is active!
+2025-02-22 10:45:28,040 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:45:32,028 - INFO - 127.0.0.1 - - [22/Feb/2025 10:45:32] "GET /choose_login HTTP/1.1" 200 -
+2025-02-22 10:45:32,079 - INFO - 127.0.0.1 - - [22/Feb/2025 10:45:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:45:40,886 - INFO - 127.0.0.1 - - [22/Feb/2025 10:45:40] "GET / HTTP/1.1" 200 -
+2025-02-22 10:45:40,957 - INFO - 127.0.0.1 - - [22/Feb/2025 10:45:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:45:45,256 - INFO - 127.0.0.1 - - [22/Feb/2025 10:45:45] "GET /choose_login HTTP/1.1" 200 -
+2025-02-22 10:45:45,321 - INFO - 127.0.0.1 - - [22/Feb/2025 10:45:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:45:50,746 - INFO - 127.0.0.1 - - [22/Feb/2025 10:45:50] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 10:46:00,593 - INFO - 127.0.0.1 - - [22/Feb/2025 10:46:00] "[32mGET /callback?state=qwrP9M2yvgctKyfyKegn7lUdHh3rYy&code=4/0ASVgi3Lf_C-NGvB57pzIfivrTJuLmZha-H7YSnbFBYVpm_zlNKWrVNpbVOLtE7jTPc_6JQ&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-22 10:46:00,603 - INFO - 127.0.0.1 - - [22/Feb/2025 10:46:00] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:46:07,912 - INFO - 127.0.0.1 - - [22/Feb/2025 10:46:07] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:46:44,489 - INFO - 127.0.0.1 - - [22/Feb/2025 10:46:44] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:46:44,521 - INFO - 127.0.0.1 - - [22/Feb/2025 10:46:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 10:47:00,178 - INFO - 127.0.0.1 - - [22/Feb/2025 10:47:00] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-22 10:47:00,422 - INFO - 127.0.0.1 - - [22/Feb/2025 10:47:00] "[31m[1mGET /subscriptions?channel_id=UCa-ckhlKL98F8YXKQ-BALiw HTTP/1.1[0m" 403 -
+2025-02-22 10:47:34,673 - INFO - 127.0.0.1 - - [22/Feb/2025 10:47:34] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-22 10:47:34,852 - INFO - 127.0.0.1 - - [22/Feb/2025 10:47:34] "[31m[1mGET /subscriptions?channel_id=UCV6KDgJskWaEckne5aPA0aQ HTTP/1.1[0m" 403 -
+2025-02-22 10:48:04,821 - INFO - 127.0.0.1 - - [22/Feb/2025 10:48:04] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-22 10:48:13,583 - INFO - 127.0.0.1 - - [22/Feb/2025 10:48:13] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-22 10:54:38,871 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 10:54:38,872 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 10:54:38,873 - INFO -  * Restarting with stat
+2025-02-22 10:54:39,184 - WARNING -  * Debugger is active!
+2025-02-22 10:54:39,197 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 10:54:47,176 - INFO - 127.0.0.1 - - [22/Feb/2025 10:54:47] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 10:54:47,327 - INFO - 127.0.0.1 - - [22/Feb/2025 10:54:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 11:03:38,254 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 11:03:38,254 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 11:03:38,255 - INFO -  * Restarting with stat
+2025-02-22 11:03:38,486 - WARNING -  * Debugger is active!
+2025-02-22 11:03:38,495 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 11:03:44,933 - INFO - 127.0.0.1 - - [22/Feb/2025 11:03:44] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 11:03:45,020 - INFO - 127.0.0.1 - - [22/Feb/2025 11:03:45] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-22 11:04:10,760 - INFO - 127.0.0.1 - - [22/Feb/2025 11:04:10] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-22 11:04:19,183 - INFO - 127.0.0.1 - - [22/Feb/2025 11:04:19] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-22 11:22:08,440 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 11:22:08,535 - INFO -  * Restarting with stat
+2025-02-22 11:22:08,892 - WARNING -  * Debugger is active!
+2025-02-22 11:22:08,905 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 11:22:17,007 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 11:22:17,042 - INFO -  * Restarting with stat
+2025-02-22 11:22:17,338 - WARNING -  * Debugger is active!
+2025-02-22 11:22:17,346 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 11:22:29,457 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-22 11:22:29,499 - INFO -  * Restarting with stat
+2025-02-22 11:22:29,809 - WARNING -  * Debugger is active!
+2025-02-22 11:22:29,816 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 11:23:15,543 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-22 11:23:15,543 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 11:23:15,544 - INFO -  * Restarting with stat
+2025-02-22 11:23:15,769 - WARNING -  * Debugger is active!
+2025-02-22 11:23:15,777 - INFO -  * Debugger PIN: 837-562-132
+2025-02-22 11:23:41,817 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:41] "GET / HTTP/1.1" 200 -
+2025-02-22 11:23:42,175 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 11:23:42,537 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-22 11:23:46,092 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:46] "GET /choose_login HTTP/1.1" 200 -
+2025-02-22 11:23:46,167 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 11:23:47,958 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:47] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 11:23:56,665 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:56] "[32mGET /callback?state=QcuT1iE3YUGgew6XT8wcwUo2j8CEq4&code=4/0ASVgi3KxAggWnWtKDxk4gXlIQpJOrx-RXmZCo7MH8QS29LQUNjn9Zu2HNlibs_ZWeFUPOg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-22 11:23:56,687 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:56] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 11:23:56,771 - INFO - 127.0.0.1 - - [22/Feb/2025 11:23:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 11:24:17,047 - INFO - 127.0.0.1 - - [22/Feb/2025 11:24:17] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-22 11:24:25,362 - INFO - 127.0.0.1 - - [22/Feb/2025 11:24:25] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-22 11:24:44,492 - INFO - 127.0.0.1 - - [22/Feb/2025 11:24:44] "GET / HTTP/1.1" 200 -
+2025-02-22 11:24:44,530 - INFO - 127.0.0.1 - - [22/Feb/2025 11:24:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 11:25:00,525 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:00] "GET /choose_login HTTP/1.1" 200 -
+2025-02-22 11:25:00,606 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 11:25:04,614 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:04] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-22 11:25:14,637 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:14] "[32mGET /callback?state=S2ciF7WTN6dn3KkMu0cf9JbOPEtg91&code=4/0ASVgi3KrpGiSu33IhC5xTQhf04AKdJNdhALmHO2kYufUx8PvGhDw9gOb0Wc3zRCwiWmqFw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-22 11:25:14,642 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:14] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-22 11:25:14,670 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-22 11:25:30,523 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:30] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-22 11:25:38,786 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:38] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-22 11:25:54,404 - INFO - 127.0.0.1 - - [22/Feb/2025 11:25:54] "POST /batch_subscribe HTTP/1.1" 200 -
+2025-02-23 15:00:59,855 - INFO - 127.0.0.1 - - [23/Feb/2025 15:00:59] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-23 15:01:02,476 - INFO - 127.0.0.1 - - [23/Feb/2025 15:01:02] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:01:51,638 - INFO - 127.0.0.1 - - [23/Feb/2025 15:01:51] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-23 15:01:51,844 - INFO - 127.0.0.1 - - [23/Feb/2025 15:01:51] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-23 15:02:32,948 - INFO - 127.0.0.1 - - [23/Feb/2025 15:02:32] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-23 15:02:33,117 - INFO - 127.0.0.1 - - [23/Feb/2025 15:02:33] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-23 15:02:45,470 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-23 15:02:45,470 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 15:02:45,470 - INFO -  * Restarting with stat
+2025-02-23 15:02:45,692 - WARNING -  * Debugger is active!
+2025-02-23 15:02:45,732 - INFO -  * Debugger PIN: 837-562-132
+2025-02-23 15:02:50,765 - INFO - 127.0.0.1 - - [23/Feb/2025 15:02:50] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-23 15:02:50,845 - INFO - 127.0.0.1 - - [23/Feb/2025 15:02:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:02:55,480 - INFO - 127.0.0.1 - - [23/Feb/2025 15:02:55] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-23 15:02:55,681 - INFO - 127.0.0.1 - - [23/Feb/2025 15:02:55] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-23 15:03:25,477 - INFO - 127.0.0.1 - - [23/Feb/2025 15:03:25] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-23 15:03:36,580 - INFO - 127.0.0.1 - - [23/Feb/2025 15:03:36] "[33mGET /logout HTTP/1.1[0m" 404 -
+2025-02-23 15:03:44,011 - INFO - 127.0.0.1 - - [23/Feb/2025 15:03:44] "[33mGET /logout HTTP/1.1[0m" 404 -
+2025-02-23 15:03:48,085 - INFO - 127.0.0.1 - - [23/Feb/2025 15:03:48] "GET / HTTP/1.1" 200 -
+2025-02-23 15:03:48,187 - INFO - 127.0.0.1 - - [23/Feb/2025 15:03:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:03:50,807 - INFO - 127.0.0.1 - - [23/Feb/2025 15:03:50] "GET /choose_login HTTP/1.1" 200 -
+2025-02-23 15:03:50,859 - INFO - 127.0.0.1 - - [23/Feb/2025 15:03:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:03:52,570 - INFO - 127.0.0.1 - - [23/Feb/2025 15:03:52] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:04:12,224 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-23 15:04:12,224 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 15:04:12,225 - INFO -  * Restarting with stat
+2025-02-23 15:04:12,466 - WARNING -  * Debugger is active!
+2025-02-23 15:04:12,474 - INFO -  * Debugger PIN: 837-562-132
+2025-02-23 15:04:15,823 - INFO - 127.0.0.1 - - [23/Feb/2025 15:04:15] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:04:18,188 - INFO - 127.0.0.1 - - [23/Feb/2025 15:04:18] "GET / HTTP/1.1" 200 -
+2025-02-23 15:04:18,241 - INFO - 127.0.0.1 - - [23/Feb/2025 15:04:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:04:22,251 - INFO - 127.0.0.1 - - [23/Feb/2025 15:04:22] "GET /choose_login HTTP/1.1" 200 -
+2025-02-23 15:04:22,276 - INFO - 127.0.0.1 - - [23/Feb/2025 15:04:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:04:23,513 - INFO - 127.0.0.1 - - [23/Feb/2025 15:04:23] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:08:51,823 - INFO - 127.0.0.1 - - [23/Feb/2025 15:08:51] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:08:54,710 - INFO - 127.0.0.1 - - [23/Feb/2025 15:08:54] "GET / HTTP/1.1" 200 -
+2025-02-23 15:08:55,093 - INFO - 127.0.0.1 - - [23/Feb/2025 15:08:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:08:57,324 - INFO - 127.0.0.1 - - [23/Feb/2025 15:08:57] "GET /choose_login HTTP/1.1" 200 -
+2025-02-23 15:08:57,343 - INFO - 127.0.0.1 - - [23/Feb/2025 15:08:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:08:59,936 - INFO - 127.0.0.1 - - [23/Feb/2025 15:08:59] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:32,021 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-23 15:09:32,021 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 15:09:32,022 - INFO -  * Restarting with stat
+2025-02-23 15:09:32,243 - WARNING -  * Debugger is active!
+2025-02-23 15:09:32,252 - INFO -  * Debugger PIN: 837-562-132
+2025-02-23 15:09:37,829 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:37] "GET / HTTP/1.1" 200 -
+2025-02-23 15:09:37,934 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:09:38,157 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-23 15:09:39,600 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:39] "GET /choose_login HTTP/1.1" 200 -
+2025-02-23 15:09:39,623 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:09:40,681 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:40] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:43,050 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:43] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:45,157 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:45] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:46,881 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:46] "[33mGET /twitter_login HTTP/1.1[0m" 404 -
+2025-02-23 15:09:50,111 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:50] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:50,696 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:50] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:50,888 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:50] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:51,131 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:51] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:55,973 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:55] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:56,170 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:56] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:56,347 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:56] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:09:56,548 - INFO - 127.0.0.1 - - [23/Feb/2025 15:09:56] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:18:36,812 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-23 15:18:36,812 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 15:18:36,813 - INFO -  * Restarting with stat
+2025-02-23 15:18:37,037 - WARNING -  * Debugger is active!
+2025-02-23 15:18:37,045 - INFO -  * Debugger PIN: 837-562-132
+2025-02-23 15:18:40,533 - INFO - 127.0.0.1 - - [23/Feb/2025 15:18:40] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:18:42,253 - INFO - 127.0.0.1 - - [23/Feb/2025 15:18:42] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:19:06,028 - INFO - 127.0.0.1 - - [23/Feb/2025 15:19:06] "[32mGET /callback?state=eWbB7N90eWGfYkLm1mbLGII6dKfNMS&code=4/0ASVgi3KLnUY4ZWJT05cFDTOKPVP55Mdbnyw-WOPz3SmKX_rKgLzWxtQFz-aIhIhV36GoVw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-23 15:19:06,069 - INFO - 127.0.0.1 - - [23/Feb/2025 15:19:06] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-23 15:19:06,117 - INFO - 127.0.0.1 - - [23/Feb/2025 15:19:06] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-23 15:21:48,343 - INFO - 127.0.0.1 - - [23/Feb/2025 15:21:48] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-23 15:21:48,366 - INFO - 127.0.0.1 - - [23/Feb/2025 15:21:48] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-23 15:22:05,435 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-23 15:22:05,435 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 15:22:05,436 - INFO -  * Restarting with stat
+2025-02-23 15:22:05,662 - WARNING -  * Debugger is active!
+2025-02-23 15:22:05,671 - INFO -  * Debugger PIN: 837-562-132
+2025-02-23 15:22:07,062 - INFO - 127.0.0.1 - - [23/Feb/2025 15:22:07] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-23 15:22:07,095 - INFO - 127.0.0.1 - - [23/Feb/2025 15:22:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:22:09,667 - INFO - 127.0.0.1 - - [23/Feb/2025 15:22:09] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-23 15:22:09,680 - INFO - 127.0.0.1 - - [23/Feb/2025 15:22:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:23:04,832 - INFO - 127.0.0.1 - - [23/Feb/2025 15:23:04] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:23:07,305 - INFO - 127.0.0.1 - - [23/Feb/2025 15:23:07] "GET / HTTP/1.1" 200 -
+2025-02-23 15:23:07,347 - INFO - 127.0.0.1 - - [23/Feb/2025 15:23:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:23:10,346 - INFO - 127.0.0.1 - - [23/Feb/2025 15:23:10] "GET /choose_login HTTP/1.1" 200 -
+2025-02-23 15:23:10,363 - INFO - 127.0.0.1 - - [23/Feb/2025 15:23:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-23 15:23:11,510 - INFO - 127.0.0.1 - - [23/Feb/2025 15:23:11] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-23 15:23:33,358 - INFO - 127.0.0.1 - - [23/Feb/2025 15:23:33] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 09:51:38,495 - INFO - 127.0.0.1 - - [24/Feb/2025 09:51:38] "[32mGET /callback?state=Uky2I4ARNLjGSLfxrXkVAfAokwmn0S&code=4/0ASVgi3It4aHGp7-MvPLxvul__gVHEZO64_Cd2iHq8PxXiZr6YTEj-VL6oiUEe1ZcJKy6Fw&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-24 09:51:38,505 - INFO - 127.0.0.1 - - [24/Feb/2025 09:51:38] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 09:51:38,559 - INFO - 127.0.0.1 - - [24/Feb/2025 09:51:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 09:52:34,104 - INFO - 127.0.0.1 - - [24/Feb/2025 09:52:34] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 09:52:34,127 - INFO - 127.0.0.1 - - [24/Feb/2025 09:52:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 09:53:01,128 - INFO - 127.0.0.1 - - [24/Feb/2025 09:53:01] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 09:53:01,162 - INFO - 127.0.0.1 - - [24/Feb/2025 09:53:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 09:53:59,722 - INFO - 127.0.0.1 - - [24/Feb/2025 09:53:59] "[31m[1mGET /my_subscriptions HTTP/1.1[0m" 401 -
+2025-02-24 09:54:10,289 - INFO - 127.0.0.1 - - [24/Feb/2025 09:54:10] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 10:08:53,135 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 10:08:53,199 - INFO -  * Restarting with stat
+2025-02-24 10:08:53,711 - WARNING -  * Debugger is active!
+2025-02-24 10:08:53,721 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 10:18:24,572 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 10:18:24,573 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 10:18:24,573 - INFO -  * Restarting with stat
+2025-02-24 10:18:24,799 - WARNING -  * Debugger is active!
+2025-02-24 10:18:24,808 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 10:18:29,727 - INFO - 127.0.0.1 - - [24/Feb/2025 10:18:29] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 10:18:29,775 - INFO - 127.0.0.1 - - [24/Feb/2025 10:18:29] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 10:21:36,268 - INFO - 127.0.0.1 - - [24/Feb/2025 10:21:36] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 10:21:36,288 - INFO - 127.0.0.1 - - [24/Feb/2025 10:21:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:24:54,515 - INFO - 127.0.0.1 - - [24/Feb/2025 10:24:54] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 10:36:01,833 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 10:36:01,891 - INFO -  * Restarting with stat
+2025-02-24 10:36:02,240 - WARNING -  * Debugger is active!
+2025-02-24 10:36:02,247 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 10:36:12,454 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 10:36:12,454 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 10:36:12,455 - INFO -  * Restarting with stat
+2025-02-24 10:36:12,688 - WARNING -  * Debugger is active!
+2025-02-24 10:36:12,696 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 10:36:23,400 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:23] "GET / HTTP/1.1" 200 -
+2025-02-24 10:36:23,460 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:36:25,450 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:25] "GET /choose_login HTTP/1.1" 200 -
+2025-02-24 10:36:25,471 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:36:26,819 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:26] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 10:36:35,153 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:35] "[32mGET /callback?state=ijb0XwAOZwIFJjg4U14FUl7J9PvfDI&code=4/0ASVgi3IXyGXjcJPcwunMV2XsHW39IgNzwLsYe4yXXWKupQFrrx22dm77o7znIp2Atuev9Q&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-24 10:36:35,167 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:35] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 10:36:35,215 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:36:59,391 - INFO - 127.0.0.1 - - [24/Feb/2025 10:36:59] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 10:37:10,007 - INFO - 127.0.0.1 - - [24/Feb/2025 10:37:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:45:27,498 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 10:45:27,498 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 10:45:27,499 - INFO -  * Restarting with stat
+2025-02-24 10:45:27,728 - WARNING -  * Debugger is active!
+2025-02-24 10:45:27,737 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 10:45:29,911 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:29] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 10:45:32,420 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:32] "GET / HTTP/1.1" 200 -
+2025-02-24 10:45:32,459 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:45:34,601 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:34] "GET /choose_login HTTP/1.1" 200 -
+2025-02-24 10:45:34,614 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:45:35,951 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:35] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 10:45:52,073 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:52] "[32mGET /callback?state=DmmfFQlZaNmgysEF88COCVHZctgmRM&code=4/0ASVgi3LM7vGQCJakhanUTTm9T5O3ar4trJsMAsBPLxoJ1Qfq5COzYbjMdC84WPe4iQEegg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-24 10:45:52,088 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:52] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 10:45:52,122 - INFO - 127.0.0.1 - - [24/Feb/2025 10:45:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:46:05,920 - INFO - 127.0.0.1 - - [24/Feb/2025 10:46:05] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 10:46:17,765 - INFO - 127.0.0.1 - - [24/Feb/2025 10:46:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:49:21,893 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 10:49:21,893 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 10:49:21,894 - INFO -  * Restarting with stat
+2025-02-24 10:49:22,126 - WARNING -  * Debugger is active!
+2025-02-24 10:49:22,135 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 10:49:25,711 - INFO - 127.0.0.1 - - [24/Feb/2025 10:49:25] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 10:49:25,746 - INFO - 127.0.0.1 - - [24/Feb/2025 10:49:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:49:37,857 - INFO - 127.0.0.1 - - [24/Feb/2025 10:49:37] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 10:53:29,231 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 10:53:29,231 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 10:53:29,232 - INFO -  * Restarting with stat
+2025-02-24 10:53:29,463 - WARNING -  * Debugger is active!
+2025-02-24 10:53:29,473 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 10:53:35,974 - INFO - 127.0.0.1 - - [24/Feb/2025 10:53:35] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 10:53:36,020 - INFO - 127.0.0.1 - - [24/Feb/2025 10:53:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:54:11,697 - INFO - 127.0.0.1 - - [24/Feb/2025 10:54:11] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 10:56:16,732 - INFO - 127.0.0.1 - - [24/Feb/2025 10:56:16] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 10:56:16,769 - INFO - 127.0.0.1 - - [24/Feb/2025 10:56:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 10:58:01,297 - INFO - 127.0.0.1 - - [24/Feb/2025 10:58:01] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 11:03:08,761 - INFO - 127.0.0.1 - - [24/Feb/2025 11:03:08] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 11:03:08,801 - INFO - 127.0.0.1 - - [24/Feb/2025 11:03:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 11:07:48,965 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 11:07:49,045 - INFO -  * Restarting with stat
+2025-02-24 11:07:49,415 - WARNING -  * Debugger is active!
+2025-02-24 11:07:49,428 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 11:08:06,668 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 11:08:06,668 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 11:08:06,669 - INFO -  * Restarting with stat
+2025-02-24 11:08:06,900 - WARNING -  * Debugger is active!
+2025-02-24 11:08:06,908 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 11:08:13,808 - INFO - 127.0.0.1 - - [24/Feb/2025 11:08:13] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 11:08:13,939 - INFO - 127.0.0.1 - - [24/Feb/2025 11:08:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 11:08:24,105 - INFO - 127.0.0.1 - - [24/Feb/2025 11:08:24] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 11:09:01,362 - INFO - 127.0.0.1 - - [24/Feb/2025 11:09:01] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 11:09:01,394 - INFO - 127.0.0.1 - - [24/Feb/2025 11:09:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 11:09:08,034 - INFO - 127.0.0.1 - - [24/Feb/2025 11:09:08] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 11:09:13,266 - INFO - 127.0.0.1 - - [24/Feb/2025 11:09:13] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 11:09:13,289 - INFO - 127.0.0.1 - - [24/Feb/2025 11:09:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 11:09:38,085 - INFO - 127.0.0.1 - - [24/Feb/2025 11:09:38] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 11:12:36,742 - INFO - 127.0.0.1 - - [24/Feb/2025 11:12:36] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 11:25:53,009 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 11:25:53,009 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 11:25:53,010 - INFO -  * Restarting with stat
+2025-02-24 11:25:53,244 - WARNING -  * Debugger is active!
+2025-02-24 11:25:53,251 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 11:25:57,742 - INFO - 127.0.0.1 - - [24/Feb/2025 11:25:57] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 11:25:57,800 - INFO - 127.0.0.1 - - [24/Feb/2025 11:25:57] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 11:26:07,603 - INFO - 127.0.0.1 - - [24/Feb/2025 11:26:07] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 11:26:50,182 - INFO - 127.0.0.1 - - [24/Feb/2025 11:26:50] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 11:26:50,508 - INFO - 127.0.0.1 - - [24/Feb/2025 11:26:50] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 11:26:50,532 - INFO - 127.0.0.1 - - [24/Feb/2025 11:26:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 11:26:56,031 - INFO - 127.0.0.1 - - [24/Feb/2025 11:26:56] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 11:28:59,357 - INFO - 127.0.0.1 - - [24/Feb/2025 11:28:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 11:29:12,159 - INFO - 127.0.0.1 - - [24/Feb/2025 11:29:12] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 11:30:30,645 - INFO - 127.0.0.1 - - [24/Feb/2025 11:30:30] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 11:31:08,384 - INFO - 127.0.0.1 - - [24/Feb/2025 11:31:08] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 11:38:45,177 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 11:38:45,177 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 11:38:45,178 - INFO -  * Restarting with stat
+2025-02-24 11:38:45,402 - WARNING -  * Debugger is active!
+2025-02-24 11:38:45,412 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 11:38:54,189 - INFO - 127.0.0.1 - - [24/Feb/2025 11:38:54] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 11:38:54,323 - INFO - 127.0.0.1 - - [24/Feb/2025 11:38:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 11:39:08,643 - INFO - 127.0.0.1 - - [24/Feb/2025 11:39:08] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 11:39:40,373 - INFO - 127.0.0.1 - - [24/Feb/2025 11:39:40] "[35m[1mGET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1[0m" 500 -
+2025-02-24 11:40:35,546 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 11:40:35,546 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 11:40:35,547 - INFO -  * Restarting with stat
+2025-02-24 11:40:35,775 - WARNING -  * Debugger is active!
+2025-02-24 11:40:35,783 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 11:40:38,261 - INFO - 127.0.0.1 - - [24/Feb/2025 11:40:38] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 11:40:38,349 - INFO - 127.0.0.1 - - [24/Feb/2025 11:40:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 11:40:44,835 - INFO - 127.0.0.1 - - [24/Feb/2025 11:40:44] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 11:43:48,769 - INFO - 127.0.0.1 - - [24/Feb/2025 11:43:48] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 12:11:49,843 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 12:11:49,939 - INFO -  * Restarting with stat
+2025-02-24 12:11:50,472 - WARNING -  * Debugger is active!
+2025-02-24 12:11:50,481 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 12:14:16,430 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 12:14:16,430 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 12:14:16,431 - INFO -  * Restarting with stat
+2025-02-24 12:14:16,656 - WARNING -  * Debugger is active!
+2025-02-24 12:14:16,664 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 12:16:06,456 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:06] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 12:16:06,587 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:06] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 12:16:07,032 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 12:16:08,544 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:08] "[33mGET /logout HTTP/1.1[0m" 404 -
+2025-02-24 12:16:13,523 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:13] "GET / HTTP/1.1" 200 -
+2025-02-24 12:16:13,554 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 12:16:16,821 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:16] "GET /choose_login HTTP/1.1" 200 -
+2025-02-24 12:16:16,890 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 12:16:18,236 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:18] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 12:16:29,827 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:29] "[32mGET /callback?state=4W79Vni51MhwSa77IDerWsqvlnlrbO&code=4/0ASVgi3I9Xf_Z-TB5e8zljCzBJq812xyzJYSW98YYDvpmH6qx9XXCllwk1lCRB1JzKceumQ&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-24 12:16:29,834 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:29] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 12:16:29,892 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 12:16:38,678 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:38] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 12:16:55,351 - INFO - 127.0.0.1 - - [24/Feb/2025 12:16:55] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 12:24:56,744 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 12:24:56,838 - INFO -  * Restarting with stat
+2025-02-24 12:24:57,199 - WARNING -  * Debugger is active!
+2025-02-24 12:24:57,211 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 12:28:07,286 - INFO - 127.0.0.1 - - [24/Feb/2025 12:28:07] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 12:28:07,376 - INFO - 127.0.0.1 - - [24/Feb/2025 12:28:07] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 12:28:24,983 - INFO - 127.0.0.1 - - [24/Feb/2025 12:28:24] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 12:28:25,023 - INFO - 127.0.0.1 - - [24/Feb/2025 12:28:25] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 12:28:34,190 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 12:28:34,190 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 12:28:34,190 - INFO -  * Restarting with stat
+2025-02-24 12:28:34,421 - WARNING -  * Debugger is active!
+2025-02-24 12:28:34,429 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 12:29:07,008 - INFO - 127.0.0.1 - - [24/Feb/2025 12:29:07] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 12:29:07,048 - INFO - 127.0.0.1 - - [24/Feb/2025 12:29:07] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 12:29:07,914 - INFO - 127.0.0.1 - - [24/Feb/2025 12:29:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 12:29:19,613 - INFO - 127.0.0.1 - - [24/Feb/2025 12:29:19] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 12:29:27,800 - INFO - 127.0.0.1 - - [24/Feb/2025 12:29:27] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 12:37:47,330 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 12:37:47,501 - INFO -  * Restarting with stat
+2025-02-24 12:37:47,917 - WARNING -  * Debugger is active!
+2025-02-24 12:37:47,934 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 12:41:02,391 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 12:41:02,392 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 12:41:02,392 - INFO -  * Restarting with stat
+2025-02-24 12:41:02,615 - WARNING -  * Debugger is active!
+2025-02-24 12:41:02,623 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 12:41:22,277 - INFO - 127.0.0.1 - - [24/Feb/2025 12:41:22] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 12:41:22,357 - INFO - 127.0.0.1 - - [24/Feb/2025 12:41:22] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 12:41:22,693 - INFO - 127.0.0.1 - - [24/Feb/2025 12:41:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 12:41:50,843 - INFO - 127.0.0.1 - - [24/Feb/2025 12:41:50] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 12:41:58,652 - INFO - 127.0.0.1 - - [24/Feb/2025 12:41:58] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 13:06:56,945 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 13:06:57,066 - INFO -  * Restarting with stat
+2025-02-24 13:06:57,449 - WARNING -  * Debugger is active!
+2025-02-24 13:06:57,463 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 13:09:37,307 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 13:09:37,308 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 13:09:37,308 - INFO -  * Restarting with stat
+2025-02-24 13:09:37,533 - WARNING -  * Debugger is active!
+2025-02-24 13:09:37,543 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 13:09:43,539 - INFO - 127.0.0.1 - - [24/Feb/2025 13:09:43] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 13:09:43,664 - INFO - 127.0.0.1 - - [24/Feb/2025 13:09:43] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 13:09:51,246 - INFO - 127.0.0.1 - - [24/Feb/2025 13:09:51] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 13:44:39,905 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 13:44:39,982 - INFO -  * Restarting with stat
+2025-02-24 13:44:40,338 - WARNING -  * Debugger is active!
+2025-02-24 13:44:40,347 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 13:49:47,583 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 13:49:47,583 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 13:49:47,584 - INFO -  * Restarting with stat
+2025-02-24 13:49:47,820 - WARNING -  * Debugger is active!
+2025-02-24 13:49:47,828 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 13:50:05,011 - INFO - 127.0.0.1 - - [24/Feb/2025 13:50:05] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 13:50:05,068 - INFO - 127.0.0.1 - - [24/Feb/2025 13:50:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 13:50:33,598 - INFO - 127.0.0.1 - - [24/Feb/2025 13:50:33] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 13:50:33,642 - INFO - 127.0.0.1 - - [24/Feb/2025 13:50:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 13:51:48,740 - INFO - 127.0.0.1 - - [24/Feb/2025 13:51:48] "[31m[1mPOST /batch_subscribe HTTP/1.1[0m" 400 -
+2025-02-24 13:52:01,604 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:01] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 13:52:19,116 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:19] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 13:52:19,162 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:19] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 13:52:19,447 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 13:52:34,837 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 13:52:34,837 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 13:52:34,838 - INFO -  * Restarting with stat
+2025-02-24 13:52:35,063 - WARNING -  * Debugger is active!
+2025-02-24 13:52:35,070 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 13:52:38,832 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:38] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 13:52:41,797 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:41] "GET / HTTP/1.1" 200 -
+2025-02-24 13:52:41,852 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 13:52:45,622 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:45] "GET /choose_login HTTP/1.1" 200 -
+2025-02-24 13:52:45,652 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 13:52:47,359 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:47] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 13:52:58,567 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:58] "[32mGET /callback?state=7zUpmyVSuC28UYhoaQExr3QztjZ5J5&code=4/0ASVgi3IOVuUuyzqpSa3xS5JdUwW2dtQBHTZtvm5hrkNZ9BoPUI4SKMyg-toCahXoW58DJg&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-24 13:52:58,584 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:58] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 13:52:58,659 - INFO - 127.0.0.1 - - [24/Feb/2025 13:52:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 13:53:02,432 - INFO - 127.0.0.1 - - [24/Feb/2025 13:53:02] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 13:53:19,613 - INFO - 127.0.0.1 - - [24/Feb/2025 13:53:19] "POST /batch_subscribe HTTP/1.1" 200 -
+2025-02-24 13:54:13,379 - INFO - 127.0.0.1 - - [24/Feb/2025 13:54:13] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 13:54:54,409 - INFO - 127.0.0.1 - - [24/Feb/2025 13:54:54] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 13:54:54,448 - INFO - 127.0.0.1 - - [24/Feb/2025 13:54:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 13:55:27,606 - INFO - 127.0.0.1 - - [24/Feb/2025 13:55:27] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 13:55:34,787 - INFO - 127.0.0.1 - - [24/Feb/2025 13:55:34] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true HTTP/1.1" 200 -
+2025-02-24 14:02:03,144 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 14:02:03,144 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 14:02:03,145 - INFO -  * Restarting with stat
+2025-02-24 14:02:03,373 - WARNING -  * Debugger is active!
+2025-02-24 14:02:03,383 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 14:02:09,183 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:09] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 14:02:09,241 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:09] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 14:02:09,449 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 14:02:18,811 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:18] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 14:02:23,617 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:23] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true&max_results=10000 HTTP/1.1" 200 -
+2025-02-24 14:02:50,165 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 14:02:50,165 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 14:02:50,166 - INFO -  * Restarting with stat
+2025-02-24 14:02:50,394 - WARNING -  * Debugger is active!
+2025-02-24 14:02:50,404 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 14:02:52,678 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:52] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 14:02:52,725 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:52] "GET /static/styles.css HTTP/1.1" 200 -
+2025-02-24 14:02:52,836 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 14:02:57,926 - INFO - 127.0.0.1 - - [24/Feb/2025 14:02:57] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg HTTP/1.1" 200 -
+2025-02-24 14:03:01,912 - INFO - 127.0.0.1 - - [24/Feb/2025 14:03:01] "GET /subscriptions?channel_id=UCoOae5nYA7VqaXzerajD0lg&fetch_all=true&max_results=10000 HTTP/1.1" 200 -
+2025-02-24 14:03:33,852 - INFO - 127.0.0.1 - - [24/Feb/2025 14:03:33] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 14:03:33,943 - INFO - 127.0.0.1 - - [24/Feb/2025 14:03:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:07:14,795 - INFO -  * Detected change in '/Users/iris.kella/Desktop/subMe/app.py', reloading
+2025-02-24 14:07:14,878 - INFO -  * Restarting with stat
+2025-02-24 14:07:15,208 - WARNING -  * Debugger is active!
+2025-02-24 14:07:15,216 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 14:08:52,625 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-24 14:08:52,625 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 14:08:52,626 - INFO -  * Restarting with stat
+2025-02-24 14:08:52,858 - WARNING -  * Debugger is active!
+2025-02-24 14:08:52,867 - INFO -  * Debugger PIN: 837-562-132
+2025-02-24 14:09:03,332 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:03] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 14:09:03,463 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:09:06,581 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:06] "GET / HTTP/1.1" 200 -
+2025-02-24 14:09:06,631 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:09:12,928 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:12] "GET /choose_login HTTP/1.1" 200 -
+2025-02-24 14:09:12,958 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:09:16,339 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:16] "GET /login_twitter HTTP/1.1" 200 -
+2025-02-24 14:09:16,363 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:09:37,912 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:37] "GET /choose_login HTTP/1.1" 200 -
+2025-02-24 14:09:37,939 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:09:39,838 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:39] "GET /login_twitter HTTP/1.1" 200 -
+2025-02-24 14:09:39,864 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:09:41,941 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:41] "GET / HTTP/1.1" 200 -
+2025-02-24 14:09:41,953 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:09:43,785 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:43] "GET /choose_login HTTP/1.1" 200 -
+2025-02-24 14:09:43,807 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:09:44,919 - INFO - 127.0.0.1 - - [24/Feb/2025 14:09:44] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 14:10:53,894 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:53] "[32mGET /callback?state=rR4wsUlBqkUZOE97GkFvW30VqFWEf1&code=4/0ASVgi3IC-OL-dORpJbWVvpJt3UaDG4_IFBYOu2_xzE3yembEZk9B58GjjhmvpaHjIxdMsQ&scope=https://www.googleapis.com/auth/youtube.force-ssl HTTP/1.1[0m" 302 -
+2025-02-24 14:10:53,904 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:53] "GET /youtube_ui HTTP/1.1" 200 -
+2025-02-24 14:10:53,987 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:10:56,348 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:56] "[32mGET /logout HTTP/1.1[0m" 302 -
+2025-02-24 14:10:56,356 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:56] "GET / HTTP/1.1" 200 -
+2025-02-24 14:10:56,374 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:10:57,818 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:57] "GET /choose_login HTTP/1.1" 200 -
+2025-02-24 14:10:57,841 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2025-02-24 14:10:59,581 - INFO - 127.0.0.1 - - [24/Feb/2025 14:10:59] "[32mGET /login HTTP/1.1[0m" 302 -
+2025-02-24 14:11:16,063 - INFO - 127.0.0.1 - - [24/Feb/2025 14:11:16] "GET /twitter_clicks HTTP/1.1" 200 -

@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Your YouTube Tool</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <nav>
+        <h1 class="logo">SUBRA</h1>
+        <div class="nav-buttons">
+            <a href="/" class="btn btn-secondary">Home</a>
+            <a href="/logout" class="btn btn-primary">Logout</a>
+        </div>
+    </nav>
+
+    <section class="dashboard-header">
+        <h1>Your YouTube tool for subscribing to your knowledge sources</h1>
+    </section>
+    
+        <div class="table-container">
+            <h2 id="channelTitle">Your Subscriptions:</h2>
+        
+            <div class="search-box">
+                <input type="text" id="channelId" placeholder="Enter YouTube Channel ID">
+                <span class="tooltip">ℹ️
+                    <span class="tooltiptext">
+                        Find your Channel ID by visiting your desired channel -> more info -> share channel -> copy channel id
+                    </span>
+                </span>
+                <button onclick="fetchSubscriptions()" class="btn btn-primary">Retrieve Subscriptions</button>
+                <button class="btn btn-primary" onclick="batchSubscribeSelected()">Subscribe to Selected</button>
+            </div>
+            <div id="loader" class="loader" style="display: none;"></div> <!-- Loader -->
+        
+            <table id="subscriptionsTable">
+                <thead>
+                    <tr>
+                        <th></th> <!-- Checkbox -->
+                        <th></th> <!-- Thumbnail -->
+                        <th>Channel</th>
+                        <th>Subscribers</th>
+                        <th>Description</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            
+            <!-- "Want to see all?" Button (Initially Hidden) -->
+            <button id="seeAllButton" class="btn btn-secondary" style="display: none;" onclick="showPaywall()">Want to see all subscriptions?</button>
+        </div>
+        
+        <!-- PayPal Payment Popup -->
+        <div id="paywallPopup" class="popup">
+            <div class="popup-content">
+                <h2>Unlock All Subscriptions</h2>
+                <p>To access the full list, please pay $5.</p>
+                <div id="paypal-button-container"></div>
+                <button onclick="closePaywall()" class="btn btn-secondary">Cancel</button>
+            </div>
+        </div>        
+
+    <footer>
+        <p>© 2025 Subra. All rights reserved.</p>
+    </footer>
+
+    <script src="https://www.paypal.com/sdk/js?client-id={{ paypal_client_id }}"></script>
+    <script>
+        let fullData = [];
+        let additionalSubscriptionsFetched = false;
+        
+        async function fetchSubscriptions() {
+            const channelId = document.getElementById("channelId").value;
+            if (!channelId) {
+                alert("Please enter a channel ID");
+                return;
+            }
+        
+            document.getElementById("loader").style.display = "block";
+        
+            try {
+                const response = await fetch(`/subscriptions?channel_id=${channelId}`);
+                const data = await response.json();
+        
+                if (data.error) {
+                    alert(data.error);
+                    document.getElementById("loader").style.display = "none";
+                    return;
+                }
+        
+                fullData = data.subscriptions;
+                document.getElementById("channelTitle").innerText = `${data.channel_name} subscriptions:`;
+        
+                // Show only first 4 subscriptions initially
+                displaySubscriptions(4);
+        
+                // Update "Want to see all" button text
+                document.getElementById("seeAllButton").innerText = `Want to see all subscriptions?`;
+                document.getElementById("seeAllButton").style.display = "block";
+        
+            } catch (e) {
+                console.error(e);
+            } finally {
+                document.getElementById("loader").style.display = "none";
+            }
+        }
+        
+        
+        function toggleDescription(link) {
+            const shortDesc = link.parentElement.querySelector('.short-desc');
+            const fullDesc = link.parentElement.querySelector('.full-desc');
+
+            if (fullDesc.style.display === 'none') {
+                fullDesc.style.display = 'inline';
+                shortDesc.style.display = 'none';
+                link.innerText = 'Show less';
+            } else {
+                fullDesc.style.display = 'none';
+                shortDesc.style.display = 'inline';
+                link.innerText = 'Show more';
+            }
+        }
+        // Background fetch for additional subscriptions
+        async function fetchRemainingSubscriptions(channelId) {
+            if (additionalSubscriptionsFetched) return; // avoid duplicate fetch
+        
+            try {
+                const response = await fetch(`/subscriptions?channel_id=${channelId}&fetch_all=true`);
+                const data = await response.json();
+        
+                if (data.error) {
+                    console.error("Background fetch error:", data.error);
+                    return;
+                }
+        
+                fullData = data.subscriptions;
+                additionalSubscriptionsFetched = true;
+            } catch (e) {
+                console.error(e);
+            }
+        }
+        
+function showPaywall() {
+    document.getElementById('paywallPopup').style.display = 'block';
+    const channelId = document.getElementById("channelId").value;
+
+    // Start fetching subscriptions in the background
+    fetchRemainingSubscriptions(channelId);
+
+    paypal.Buttons({
+        createOrder: function(data, actions) {
+            return actions.order.create({
+                purchase_units: [{ amount: { value: '0.01' } }]
+            });
+        },
+        onApprove: async function(data, actions) {
+            await actions.order.capture();
+            closePaywall();  // Properly close the payment popup immediately after payment
+            await waitForSubscriptionsToFetch();  // Wait until fetching is complete
+            displaySubscriptions(fullData.length);  // Display all fetched subscriptions
+
+            // Update the button text to search for another channel
+            const btn = document.getElementById('seeAllButton');
+            btn.innerText = "All done? Search for another channel!";
+            btn.onclick = () => window.open('/youtube_ui', '_blank');
+        }
+    }).render('#paypal-button-container');
+}
+
+async function fetchAllSubscriptionsAfterPayment() {
+    const channelId = document.getElementById('channelIdInput').value;
+    const response = await fetch(`/subscriptions?channel_id=${channelId}&fetch_all=true`);
+    if (response.ok) {
+        const { subscriptions } = await response.json();
+        renderTable(subscriptions);
+        const btn = document.getElementById('showAllBtn');
+        btn.innerText = "All done? Search for another channel!";
+        btn.onclick = () => window.open('/youtube_ui', '_blank');
+    } else {
+        alert("Couldn't load subscriptions after payment.");
+    }
+}
+
+// Background fetch with up to 10K subscriptions
+async function fetchRemainingSubscriptions(channelId) {
+    try {
+        const response = await fetch(`/subscriptions?channel_id=${channelId}&fetch_all=true&max_results=10000`);
+        const data = await response.json();
+        if (data.error) {
+            console.error("API Error:", data.error);
+            return;
+        }
+        fullData = data.subscriptions.sort((a, b) => b.subscribers - a.subscribers);
+        additionalSubscriptionsFetched = true;
+    } catch (e) {
+        console.error("Fetch Error:", e);
+    }
+}
+
+function waitForSubscriptionsToFetch() {
+    return new Promise((resolve, reject) => {
+        let attempts = 0;
+        const checkInterval = setInterval(() => {
+            if (additionalSubscriptionsFetched) {
+                clearInterval(checkInterval);
+                resolve();
+            } else if (++attempts >= 60) { // waits up to 30 seconds
+                clearInterval(checkInterval);
+                alert("Subscriptions couldn't load in time, please refresh.");
+                reject("Subscriptions loading timeout");
+            }
+        }, 500);
+    });
+}
+
+function closePaywall() {
+    document.getElementById('paywallPopup').style.display = 'none';
+    document.getElementById('paypal-button-container').innerHTML = ''; // Clear PayPal buttons
+}
+// Ensure subscriptions table refreshes properly
+function displaySubscriptions(limit = 4) {
+    const table = document.getElementById("subscriptionsTable").getElementsByTagName("tbody")[0];
+    table.innerHTML = "";
+
+    fullData.slice(0, limit).forEach(sub => {
+        const row = table.insertRow();
+
+        // Checkbox
+        row.insertCell(0).innerHTML = `<input type="checkbox" value="${sub.channelId}">`;
+
+        // Thumbnail
+        row.insertCell(1).innerHTML = `<img src="${sub.thumbnail}" width="40" height="40" style="border-radius:50%">`;
+
+        row.insertCell(2).innerText = sub.title;
+        row.insertCell(3).innerText = formatSubscribers(sub.subscribers);
+
+        let descCell = row.insertCell(4);
+        descCell.innerHTML = `
+            <span class="short-desc">${sub.description.substring(0,50)}...</span>
+            <span class="full-desc" style="display:none;">${sub.description}</span>
+            <a href="#" class="toggle-description" onclick="toggleDescription(this); return false;">Show more</a>`;
+
+        let btnCell = row.insertCell(5);
+        let btn = document.createElement("button");
+        btn.innerText = sub.subscribed ? "Subscribed Already" : "Subscribe";
+        btn.classList.add("subscribe-btn");
+        if (sub.subscribed) {
+            btn.classList.add("subscribed");
+            btn.disabled = true;
+        } else {
+            btn.onclick = () => subscribeToChannel(sub.channelId, btn);
+        }
+        btnCell.appendChild(btn);
+    });
+}
+
+function batchSubscribeSelected() {
+    const selectedChannels = [];
+    document.querySelectorAll('input[type="checkbox"]:checked').forEach(cb => {
+        selectedChannels.push(cb.value);
+    });
+
+    fetch('/batch_subscribe', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({channelIds: selectedChannels})
+    })
+    .then(response => response.json())
+    .then(data => alert(data.message))
+    .catch(error => console.error('Error:', error));
+}
+
+function formatSubscribers(num) {
+    if (num >= 1e6) return (num / 1e6).toFixed(1) + 'M';
+    if (num >= 1e3) return (num / 1e3).toFixed(1) + 'K';
+    return num.toString();
+}
+</script>        
+</body>
+</html>

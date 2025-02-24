@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Twitter Subscriptions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="subpage-title">Your Twitter tool for subscribing to your knowledge sources</h1>
+
+        <div class="input-container">
+            <input type="text" id="twitterUsername" placeholder="Enter Twitter Username">
+            <button onclick="fetchFollowing()">Retrieve Following</button>
+        </div>
+
+        <h2>Following:</h2>
+        <table id="twitterTable" style="display: none;">
+            <thead>
+                <tr>
+                    <th>Profile</th>
+                    <th>Name</th>
+                    <th>Followers</th>
+                    <th>Description</th>
+                    <th>Follow</th>
+                </tr>
+            </thead>
+            <tbody id="twitterBody"></tbody>
+        </table>
+    </div>
+
+    <script>
+        function fetchFollowing() {
+            let username = document.getElementById("twitterUsername").value;
+            if (!username) {
+                alert("Please enter a Twitter username.");
+                return;
+            }
+
+            fetch(`/twitter_following?username=${username}`)
+                .then(response => response.json())
+                .then(data => {
+                    let table = document.getElementById("twitterTable");
+                    let tbody = document.getElementById("twitterBody");
+                    tbody.innerHTML = "";
+
+                    if (data.error) {
+                        alert(data.error);
+                        return;
+                    }
+
+                    data.following.forEach(account => {
+                        let row = document.createElement("tr");
+
+                        let imgCell = document.createElement("td");
+                        let img = document.createElement("img");
+                        img.src = account.profile_image;
+                        img.classList.add("profile-img");
+                        imgCell.appendChild(img);
+
+                        let nameCell = document.createElement("td");
+                        nameCell.innerHTML = `<strong>${account.name}</strong> (@${account.username})`;
+
+                        let followersCell = document.createElement("td");
+                        followersCell.innerText = account.followers + " followers";
+
+                        let descriptionCell = document.createElement("td");
+                        descriptionCell.innerText = account.description;
+                        descriptionCell.classList.add("description");
+
+                        let buttonCell = document.createElement("td");
+                        let button = document.createElement("button");
+                        button.innerText = "Follow";
+                        button.classList.add("follow-btn");
+                        button.onclick = function() {
+                            followUser(account.id);
+                        };
+                        buttonCell.appendChild(button);
+
+                        row.appendChild(imgCell);
+                        row.appendChild(nameCell);
+                        row.appendChild(followersCell);
+                        row.appendChild(descriptionCell);
+                        row.appendChild(buttonCell);
+
+                        tbody.appendChild(row);
+                    });
+
+                    table.style.display = "table";
+                });
+        }
+    </script>
+
+</body>
+</html>

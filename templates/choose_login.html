@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Choose Login Method</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <nav>
+        <h1 class="logo">SUBRA</h1>
+        <div class="nav-buttons">
+            <a href="/" class="btn btn-secondary">Home</a>
+        </div>
+    </nav>
+
+    <section class="login-options">
+        <h1>Choose a Platform to Login</h1>
+        <p>Connect with YouTube or Twitter to manage your subscriptions.</p>
+        <div class="cta-buttons">
+            <a href="/login" class="btn btn-primary" title="Login to access YouTube subscriptions">
+                Login with YouTube
+            </a>
+            <a href="/login_twitter" class="btn btn-secondary">Login with Twitter</a>
+            </a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Subra. All rights reserved.</p>
+    </footer>
+</body>
+</html>
