@@ -23,6 +23,8 @@ os.environ["OAUTHLIB_INSECURE_TRANSPORT"] = "1"
 # Logging setup
 logging.basicConfig(filename="youtube_api.log", level=logging.ERROR, format="%(asctime)s - %(levelname)s - %(message)s")
 
+REDIRECT_URI = os.getenv("OAUTH_REDIRECT_URI", "https://subra.onrender.com/callback")
+
 # Google OAuth 2.0 Config
 CLIENT_SECRETS_FILE = os.getenv("YOUTUBE_CLIENT_SECRET")
 SCOPES = [os.getenv("YOUTUBE_SCOPES")]
@@ -352,4 +354,4 @@ def get_twitter_clicks():
     return jsonify({"twitter_clicks": twitter_clicks})
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=False)
